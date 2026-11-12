@@ -31,4 +31,6 @@ A canonical biblical theology, not a commentary. The book as an ascent into God'
 
 ## Gaps: not on hand
 
+The commentaries above are the full set; no more are coming. The ones below are reachable only by web search in pass 2.
+
 Wenham (NICOT), Sklar (TOTC), Hartley (WBC), Gane (NIVAC), Rashi and Ibn Ezra on Leviticus. Milgrom's one-volume Continental Commentary is also absent, but the three Anchor volumes cover it. Flag any unit where a second full commentary, especially a non-source-critical one like Wenham, would materially change the reading; search the web for it in pass 2 and say what you read.
