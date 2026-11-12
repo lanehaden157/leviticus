@@ -20,6 +20,8 @@ File: `milgrom-lev23-27.txt`
 
 The calendar (23), the lamp and bread and the blasphemer (24), sabbatical and jubilee with redemption and the goel (25), blessings and curses (26), and vows and dedications (27). Strong comparisons with Num 28–29, Deut 15–16 and Deut 28. Figures: `research/figures-milgrom-3.md`.
 
+**Only one Milgrom volume is in project knowledge at a time:** 1–16 for units in Lev 1–16, 17–22 for 17–22, 23–27 for 23–27. Before pass 1, check that the unit's volume is there. If it, or a volume a cross-reference points to, is missing, say so and don't work from memory of Milgrom.
+
 **Milgrom's transliteration is OCR-damaged in all three volumes** (`hatta^t`, `l;`, `$`, `-fm`, etc.). Read it with `research/milgrom-transliteration-key.md`, and never quote a transliteration from these files without checking it.
 
 ## L. Michael Morales, *Who Shall Ascend the Mountain of the Lord? A Biblical Theology of the Book of Leviticus* (NSBT 37, 2015)
