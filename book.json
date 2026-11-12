@@ -1,0 +1,29 @@
+{
+  "book": "Leviticus",
+  "osis": "Lev",
+  "abbrev": "Lev",
+  "slug": "leviticus",
+  "language": "hebrew",
+  "corpus": {
+    "kind": "oshb",
+    "pin": "morphhb@2.0.2",
+    "word_ids": true
+  },
+  "groupings": [],
+  "components": [
+    "echo",
+    "list",
+    "digest"
+  ],
+  "checks": {
+    "opens_note_required": true
+  },
+  "sync": {
+    "extra": [],
+    "skip": []
+  },
+  "hub": "https://lanehaden157.github.io/bible/",
+  "core": "0.31.0",
+  "template": "6918912",
+  "tiers": true
+}
