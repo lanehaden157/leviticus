@@ -19,7 +19,7 @@
     "opens_note_required": true
   },
   "sync": {
-    "extra": [],
+    "extra": ["research/milgrom-transliteration-key.md"],
     "skip": []
   },
   "hub": "https://lanehaden157.github.io/bible/",
