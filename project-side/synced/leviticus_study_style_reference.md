@@ -40,7 +40,7 @@ number; suffixed id (`2416e`) claims exactly one.
   - Ritual steps keep the text's order and actor; no reconstruction of what a rite "means" in the verse text.
   - Law cases: translate the condition and the consequence as the Hebrew states them; mark inference.
   - Cite English verse numbers (Eng 6:1-7 = Heb 5:20-26; Eng 6:8-30 = Heb 6:1-23).
-  - Fixed terms (kipper, ḥaṭṭaʾt, ʾasham, ʿolah, qorban, ṭameʾ/ṭahor, tsaraʿat, karet, qadash, goʾel): rendering per `translation-choices.md` once Lane has decided; until then transliterate and gloss.
+  - Fixed terms (kipper, ḥaṭṭaʾt, ʾasham, ʿolah, qorban, ṭameʾ/ṭahor, tsaraʿat, karet, qadash, goʾel): rendering per `translation-choices.md`, all decided.
   - Priestly speech is plural "you" (y'all) when addressed to Israel.
 
 ## Unit map ✎
