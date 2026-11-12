@@ -6,9 +6,15 @@ contract here.
 
 ## Components ✎
 
-Optional components on: echo, list (`book.json` `"components"`; markup in
-`components-reference.md`). Note here where this book uses each, and which
-handoff box kinds it has.
+*Tentative draft.* On: echo, list, digest (`book.json` `"components"`; markup in
+`components-reference.md`).
+
+- **echo**: intertexts in both directions: Exodus 25-40 pattern, Genesis 1-3
+  and Eden, Deuteronomy's reuse of the law, the prophets, the New Testament.
+- **list**: ordered rites and enumerations (animals, unions, festivals, blessings
+  and curses), in the text's own order.
+- **digest**: condensed and digest units per `card-condensed.md`.
+- Handoff box kinds: none beyond the shared ones yet; add as units need them.
 
 ## Hebrew in English ✎
 
@@ -30,7 +36,12 @@ number; suffixed id (`2416e`) claims exactly one.
 - Structure markers: Masoretic paragraph breaks (`candidate-boundaries.md`).
 - Names are joined by hand: place-name wordplay is real, Strong's etymology
   unreliable.
-- ✎ Genre cautions (lists, law, poetry, …): add as units surface them.
+- *Tentative.* Genre cautions: `lens.md` has the lens. Plus:
+  - Ritual steps keep the text's order and actor; no reconstruction of what a rite "means" in the verse text.
+  - Law cases: translate the condition and the consequence as the Hebrew states them; mark inference.
+  - Cite English verse numbers (Eng 6:1-7 = Heb 5:20-26; Eng 6:8-30 = Heb 6:1-23).
+  - Fixed terms (kipper, ḥaṭṭaʾt, ʾasham, ʿolah, qorban, ṭameʾ/ṭahor, tsaraʿat, karet, qadash, goʾel): rendering per `translation-choices.md` once Lane has decided; until then transliterate and gloss.
+  - Priestly speech is plural "you" (y'all) when addressed to Israel.
 
 ## Unit map ✎
 
