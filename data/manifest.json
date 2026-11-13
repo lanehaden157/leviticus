@@ -42,6 +42,12 @@
     "words/": {
       "schema": 1
     },
+    "mirror-exodus.json": {
+      "schema": 1
+    },
+    "mirror-deuteronomy.json": {
+      "schema": 1
+    },
     "web/": {
       "schema": 1
     }

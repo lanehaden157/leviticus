@@ -23,6 +23,7 @@ import { renderSearch } from "./search.js?v=e32fa9cdf2";
 import { MODES, modeLabel, applyMode, indexVerses, findVerse, mountInterlinear, unmountInterlinear,
          prepVerseNumbers, wireVerseNumbers, parseRef, unitForRef, rememberPosition, lastPosition, renderPrint } from "./reader.js?v=1d82c85a28";
 import * as tiers from "./tiers.js?v=13b1c896ec";
+import * as tabmap from "./tabmap.js?v=44a4e547e8";
 
 const UNITS_URL = new URL("../data/units.json", import.meta.url);
 // written by the build from book.json "components" (biblecore/components):
@@ -508,6 +509,7 @@ async function loadUnit(unit, anchor) {
   buildPager(unit);
   tiers.applyView(content, unit, anchor);
   tiers.wireWeb(content);
+  tabmap.mount(content);
   document.title = `Unit ${unit.n} · ${unit.title} — ${siteTitle()}`;
 
   rememberPosition(storagePrefix(), unit.slug, anchor && /^\d+:\d+$/.test(anchor) ? anchor : null);
