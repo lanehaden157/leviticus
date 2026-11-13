@@ -43,6 +43,7 @@ unit is more likely right.
 | shelamim | shelamim | **well-being offering** | "well-being" for shalom; the offerer eats it (7:11–36). |
 | ʾishsheh | ʾishsheh | **fire offering** | 1:9 "a fire offering, a soothing aroma"; Milgrom's "food gift" goes in a note where no fire is involved (24:7–9). |
 | ʿatseret | ʿatseret | **closing gathering** | The feast's closing day (23:36; Num 29:35; Deut 16:8). |
+| rêaḥ niḥoaḥ | rêaḥ niḥoaḥ | **aroma of rest** | niḥoaḥ from nûaḥ "rest" (1:9). Keeps the link to Noah's offering, Gen 8:21. |
 
 ## Log
 
@@ -50,3 +51,4 @@ unit is more likely right.
 - 2026-11-12: tabernacle zone names and kapporet decided by Lane (Wave 2 popup).
 - 2026-11-13: calendar terms decided by Lane (Wave 2 popup): holy gathering, meeting times, Festival of Shelters, day of shouting.
 - 2026-11-13: gift offering, well-being offering, fire offering, closing gathering decided by Lane (Wave 2 popup).
+- 2026-11-13: aroma of rest decided by Lane.
