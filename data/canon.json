@@ -1,5 +1,358 @@
 {
   "_note": "Canon rows for this book (biblecore/canon.py). 'echo' rows are re-harvested every build; 'meta' rows come from ported meta blocks.",
-  "intertext": [],
-  "typescenes": []
+  "intertext": [
+    {
+      "from": "Lev 1:1",
+      "to": "Exod 24:15–18",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:1",
+      "to": "Exod 29:42–46",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:1",
+      "to": "Exod 40:34–35",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:1",
+      "to": "Lev 23:2",
+      "kind": "echo",
+      "unit": 1,
+      "note": "root meeting",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:1",
+      "to": "Exod 3:4",
+      "kind": "echo",
+      "unit": 1,
+      "note": "Possible: Yahweh calls Moshe's name out of the bush and tells him not to come closer. Thin: one shared verb and a mood.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:1",
+      "to": "Lev 9:23",
+      "kind": "echo",
+      "unit": 1,
+      "note": "The call from the Tent is answered on the eighth day: Moshe and Aharon go in, come out, and fire from Yahweh consumes the going up offering (9:22–24).",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:1",
+      "to": "Num 7:89",
+      "kind": "echo",
+      "unit": 1,
+      "note": "Elsewhere Moshe goes into the Tent and hears the voice from above the place of covering; here the voice comes out of the Tent to him.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:2",
+      "to": "Rom 12:1",
+      "kind": "allusion",
+      "unit": 1,
+      "note": "Reception, possible: parastēsai, “to present,” bodies as a living sacrifice; may echo the bring-near language. Not checked against the Greek Old Testament.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:3",
+      "to": "Exod 29:38–42",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:3",
+      "to": "Gen 17:1",
+      "kind": "echo",
+      "unit": 1,
+      "note": "root whole",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:3",
+      "to": "Gen 22:2–13",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:3",
+      "to": "Gen 6:9",
+      "kind": "echo",
+      "unit": 1,
+      "note": "root whole",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:3",
+      "to": "Lev 17:3–9",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:3",
+      "to": "Lev 22:17–25",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:3",
+      "to": "Mal 1:8–10",
+      "kind": "echo",
+      "unit": 1,
+      "note": "root acceptance",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:3",
+      "to": "Num 28:1–8",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:3",
+      "to": "Deut 33:10",
+      "kind": "echo",
+      "unit": 1,
+      "note": "kalil, “complete offering,” beside ʿolah; possibly the older name for the same offering.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:3",
+      "to": "Judg 13:20",
+      "kind": "echo",
+      "unit": 1,
+      "note": "Possible: the messenger goes up in the altar's flame, supporting the ascent sense of ʿolah. Thin: the Hebrew verb not checked.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:3",
+      "to": "Ps 51:19",
+      "kind": "echo",
+      "unit": 1,
+      "note": "kalil beside ʿolah again.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:4",
+      "to": "1 Sam 7:9",
+      "kind": "echo",
+      "unit": 1,
+      "note": "Possible: Shemuʾel offers a suckling lamb whole and cries out; Yahweh answers.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:4",
+      "to": "2 Sam 24:25",
+      "kind": "echo",
+      "unit": 1,
+      "note": "Possible: going up offerings on a newly bought altar end the plague. Thin: target not read.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:4",
+      "to": "Job 1:5",
+      "kind": "echo",
+      "unit": 1,
+      "note": "Possible: going up offerings for children in case they sinned, a wrong unnamed. Thin: only the opening verse read.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:4",
+      "to": "Lev 16:21",
+      "kind": "echo",
+      "unit": 1,
+      "note": "Possible pointer: two hands on the goat sent away against one hand here; whether the number matters is argued.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:4",
+      "to": "Lev 16:24",
+      "kind": "echo",
+      "unit": 1,
+      "note": "On the Day of Coverings Aharon's going up offerings cover for himself and for the people.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:4",
+      "to": "Lev 8:18–21",
+      "kind": "echo",
+      "unit": 1,
+      "note": "Instruction, then doing: the ordination ram goes through the same acts step for step.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:4",
+      "to": "Lev 9:7",
+      "kind": "echo",
+      "unit": 1,
+      "note": "The going up offering covers for Aharon and for the people.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:4",
+      "to": "Num 6:10–11",
+      "kind": "law",
+      "unit": 1,
+      "note": "Two birds, one a sin offering and one a going up offering, and the priest covers for the Nazirite.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:5",
+      "to": "Exod 24:5–8",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:5",
+      "to": "Exod 29:15–18",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:5",
+      "to": "Lev 17:10–14",
+      "kind": "echo",
+      "unit": 1,
+      "note": "Possible pointer: blood on the altar read as life given back through it. Not read.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:5",
+      "to": "Lev 9:12–14",
+      "kind": "echo",
+      "unit": 1,
+      "note": "Instruction, then doing, on the eighth day.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:6",
+      "to": "1 Kgs 18:30–38",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:6",
+      "to": "Lev 9:24",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:6",
+      "to": "Judg 19:29",
+      "kind": "echo",
+      "unit": 1,
+      "note": "Possible: the same rare verb, cut up, used of the concubine's body with no altar. Thin: one verb only.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:8",
+      "to": "Lev 8:20",
+      "kind": "echo",
+      "unit": 1,
+      "note": "root fatty-pieces",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:9",
+      "to": "Gen 8:20–21",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:9",
+      "to": "Num 15:1–10",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:9",
+      "to": "Eph 5:2",
+      "kind": "reuse",
+      "unit": 1,
+      "note": "Reception, not the meaning in Leviticus: Christ's self-giving as an offering, osmē euōdias, “a smell of fragrance.” The Greek Old Testament's wording not checked.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:9",
+      "to": "Exod 12:9",
+      "kind": "echo",
+      "unit": 1,
+      "note": "Possible: the Passover meat roasted with head, legs and entrails. Thin: a shared list.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:9",
+      "to": "Lev 6:9–13",
+      "kind": "law",
+      "unit": 1,
+      "note": "The priests' side of the same offering: on the altar all night, the fire never to go out.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:14",
+      "to": "Gen 15:9–10",
+      "kind": "echo",
+      "unit": 1,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 1:16",
+      "to": "1 Kgs 13:3",
+      "kind": "echo",
+      "unit": 1,
+      "note": "Possible: the altar's ashes poured out in a prophet's sign (13:3, 5). Thin: target not read.",
+      "source": "meta"
+    },
+    {
+      "from": "Lev 1:16",
+      "to": "Lev 6:10–11",
+      "kind": "law",
+      "unit": 1,
+      "note": "The ashes told again from the priest's side: set beside the altar, then carried out of the camp to a clean place.",
+      "source": "meta"
+    }
+  ],
+  "typescenes": [
+    {
+      "id": "mountain-theophany",
+      "ref": "Lev 1:1",
+      "unit": 1,
+      "note": "Tentative. The Tent in the mountain's place: cloud, Presence and a call (Exod 24:15–18; 40:34–35), zoned like Sinai. A variant: the Presence comes to the Tent and the call comes from it, with no entry.",
+      "source": "meta"
+    }
+  ]
 }

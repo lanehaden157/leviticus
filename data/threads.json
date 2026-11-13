@@ -1,5 +1,118 @@
 {
   "_note": "Tracked threads: policy. Nothing in the pipeline writes this file; the porter's thread delta proposes, a human applies. Colours come from `python -m biblecore colour <root>`, never picked by eye.",
   "version": 1,
-  "threads": []
+  "threads": [
+    {
+      "id": "going-up-offering",
+      "root": "going-up-offering",
+      "translit": "ʿolah",
+      "gloss": "going up offering",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 1,
+        "ref": "1:3",
+        "note": "The offering that rises whole in smoke; the name comes from ʿalah, “go up.”"
+      },
+      "payoffs": [],
+      "note": "The offering the book keeps returning to: ordinary, ordination, eighth day, Day of Coverings.",
+      "color": "#2f4f7a"
+    },
+    {
+      "id": "bring-near",
+      "root": "bring-near",
+      "translit": "qarav",
+      "gloss": "bring near; brought near offering",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 1,
+        "ref": "1:2",
+        "note": "The verb of the whole approach: the offerer brings the animal near, and the priests bring the blood near."
+      },
+      "payoffs": [],
+      "note": "The book's verb of access; it names the qorban, the brought near offering.",
+      "color": "#5c3f7a"
+    },
+    {
+      "id": "cover",
+      "root": "cover",
+      "translit": "kipper",
+      "gloss": "cover",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 1,
+        "ref": "1:4",
+        "note": "First use here, with the going up offering; the rendering is cover, with purge or expiate in the note."
+      },
+      "payoffs": [],
+      "note": "The book's central act, from the first chapter to the Day of Coverings.",
+      "color": "#005847"
+    },
+    {
+      "id": "aroma-of-rest",
+      "root": "aroma-of-rest",
+      "translit": "reaḥ niḥoaḥ",
+      "gloss": "aroma of rest",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 1,
+        "ref": "1:9",
+        "note": "The offering's refrain; niḥoaḥ ties it to Noaḥ's offering and the root of rest."
+      },
+      "payoffs": [],
+      "note": "A fixed refrain with a Genesis root.",
+      "color": "#006494"
+    },
+    {
+      "id": "fire-offering",
+      "root": "fire-offering",
+      "translit": "ʾishsheh",
+      "gloss": "fire offering",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 1,
+        "ref": "1:9",
+        "note": "The name for what goes up in fire; the sense food gift is in the note."
+      },
+      "payoffs": [],
+      "note": "The book's standard word for what reaches the altar.",
+      "color": "#5a5a9c"
+    },
+    {
+      "id": "lean-the-hand",
+      "root": "lean-the-hand",
+      "translit": "samakh",
+      "gloss": "lean the hand",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 1,
+        "ref": "1:4",
+        "note": "The offerer leans a hand on the animal's head: here one hand, later two on the goat sent away."
+      },
+      "payoffs": [],
+      "note": "Returns at the blasphemer in the book's last narrative.",
+      "color": "#7f5482"
+    },
+    {
+      "id": "turn-into-smoke",
+      "root": "turn-into-smoke",
+      "translit": "qatar",
+      "gloss": "turn into smoke",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 1,
+        "ref": "1:9",
+        "note": "Kept apart from saraf, “burn”: the altar's act is to turn the offering into smoke."
+      },
+      "payoffs": [],
+      "note": "A distinct altar verb across the offering and priestly narratives.",
+      "color": "#945042"
+    }
+  ]
 }
