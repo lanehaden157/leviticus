@@ -28,4 +28,4 @@ Every unit's meta has `digest`; a digest stretch is `section.block.digest`, a co
 
 Precedence: Lane in chat > this field > the book's style reference > card and `fragment-contract.md` > handoff > reference files. Conflict → flag to Lane, don't resolve silently. Names follow the book's transliteration convention (Moshe, Aharon, Yahweh).
 
-✎ Box kinds this book has, and anything it does differently from the cards.
+Box kinds in Leviticus: story, echo, mirror (only for a pair the unit pack's mirror section gives), ritual (a rite's steps on the tabernacle map), lawparallel (a law restated elsewhere in the Torah). No parallel/synoptic or OT-pointer box: a non-law parallel is an echo or a footnote. Type-scene → the story box when it's told, else a meta entry.

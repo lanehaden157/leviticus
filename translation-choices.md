@@ -44,6 +44,11 @@ unit is more likely right.
 | ʾishsheh | ʾishsheh | **fire offering** | 1:9 "a fire offering, a soothing aroma"; Milgrom's "food gift" goes in a note where no fire is involved (24:7–9). |
 | ʿatseret | ʿatseret | **closing gathering** | The feast's closing day (23:36; Num 29:35; Deut 16:8). |
 | rêaḥ niḥoaḥ | rêaḥ niḥoaḥ | **aroma of rest** | niḥoaḥ from nûaḥ "rest" (1:9). Keeps the link to Noah's offering, Gen 8:21. |
+| tamim | tamim | **whole** | The animal without defect (1:3, 1:10). |
+| ratson / ratsah | ratson / ratsah | **acceptance** / **accepted** | The offering "for acceptance" and the verb "accepted" (1:3–4). |
+| samakh | samakh | **lean** | The hand laid on the animal's head (1:4): "lean" keeps the pressing. |
+| zaraq | zaraq | **dash** | The blood thrown against the altar (1:5, 1:11). |
+| nittach / netach | nittach / netach | **cut up** / **pieces** | The animal cut up into its pieces (1:6, 1:12). |
 
 ## Log
 
@@ -52,3 +57,4 @@ unit is more likely right.
 - 2026-11-13: calendar terms decided by Lane (Wave 2 popup): holy gathering, meeting times, Festival of Shelters, day of shouting.
 - 2026-11-13: gift offering, well-being offering, fire offering, closing gathering decided by Lane (Wave 2 popup).
 - 2026-11-13: aroma of rest decided by Lane.
+- 2026-11-13: whole, acceptance/accepted, lean, dash, cut up/pieces decided by Lane (Lev 1 popup).

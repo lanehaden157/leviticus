@@ -17,6 +17,7 @@
     "echo",
     "list",
     "digest",
+    "story",
     "mirror",
     "ritual",
     "lawparallel"
@@ -36,12 +37,13 @@
   },
   "sync": {
     "extra": [
-      "research/milgrom-transliteration-key.md"
+      "research/milgrom-transliteration-key.md",
+      "research/figures-*.md"
     ],
     "skip": []
   },
   "hub": "https://lanehaden157.github.io/bible/",
-  "core": "0.36.1",
+  "core": "0.37.1",
   "template": "6918912",
   "tiers": true
 }
