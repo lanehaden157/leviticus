@@ -35,8 +35,13 @@ unit is more likely right.
 | qodesh haqqodashim | qodesh haqqodashim | **holy of holies** | The innermost room. Lev 16 mostly says "the holy place" inside the curtain; keep that where the text has it. |
 | kiyyor | kiyyor | **basin** | The bronze washing vessel (Exod 30:18). |
 | kapporet | kapporet | **place of covering** | The chest's lid. Keeps the link to kipper "cover"; a note says it is the lid. |
+| miqraʾ qodesh | miqraʾ qodesh | **holy gathering** | The gathering called on each feast day (23:2–3; Num 28–29). |
+| moʿadim | moʿadim | **meeting times** | Lev 23's heading word; keeps the link to moʿed in "Tent of Meeting". |
+| ḥag hassukkot | ḥag hassukkot | **Festival of Shelters** | 23:34; Deut 16:13. A sukkah is a shelter; avoids the sanctuary's "tabernacle". |
+| yom teruʿah | teruʿah | **day of shouting** | First day of the seventh month (23:24; Num 29:1); "remembrance" stays in 23:24's wording. |
 
 ## Log
 
 - 2026-11-12: all ten fixed terms decided by Lane (popups), plus the Day of Coverings.
 - 2026-11-12: tabernacle zone names and kapporet decided by Lane (Wave 2 popup).
+- 2026-11-13: calendar terms decided by Lane (Wave 2 popup): holy gathering, meeting times, Festival of Shelters, day of shouting.
