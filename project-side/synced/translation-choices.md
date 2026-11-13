@@ -31,7 +31,12 @@ unit is more likely right.
 | cut off | karet | **cut off from his people** | Leaves death, exile or loss of line as open as the text does. |
 | holy, set apart | qadash family | canon default: **holy** (adj., noun), **set apart** (verb) | As locked in Joshua 3:5. The root link in 19:2 / 20:8 goes in a note. |
 | kinsman redeemer | goʾel | **kinsman redeemer** (noun, ch. 25); verb gaʾal **redeem**, geʾullah **redemption** | Ch. 27 has only the verb and noun, so "redeem" serves there. The canon question (Num 35 "avenger of blood") stays open in core. |
+| parokhet | parokhet | **curtain** | As Num 4:5. The map's zone id stays `veil`. |
+| qodesh haqqodashim | qodesh haqqodashim | **holy of holies** | The innermost room. Lev 16 mostly says "the holy place" inside the curtain; keep that where the text has it. |
+| kiyyor | kiyyor | **basin** | The bronze washing vessel (Exod 30:18). |
+| kapporet | kapporet | **place of covering** | The chest's lid. Keeps the link to kipper "cover"; a note says it is the lid. |
 
 ## Log
 
 - 2026-11-12: all ten fixed terms decided by Lane (popups), plus the Day of Coverings.
+- 2026-11-12: tabernacle zone names and kapporet decided by Lane (Wave 2 popup).
