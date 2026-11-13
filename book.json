@@ -9,7 +9,10 @@
     "pin": "morphhb@2.0.2",
     "word_ids": true
   },
-  "groupings": [],
+  "groupings": [
+    "section",
+    "part"
+  ],
   "components": [
     "echo",
     "list",
@@ -32,7 +35,9 @@
     "opens_note_required": true
   },
   "sync": {
-    "extra": ["research/milgrom-transliteration-key.md"],
+    "extra": [
+      "research/milgrom-transliteration-key.md"
+    ],
     "skip": []
   },
   "hub": "https://lanehaden157.github.io/bible/",

@@ -1,6 +1,6 @@
 # Leviticus: literary unit map
 
-> Checked 2026-11-12 against Milgrom (Anchor Bible, three volumes; printed pages) and Morales, *Who Shall Ascend the Mountain of the Lord?* (pdf pages, since the ebook has no printed ones), with the Masoretic breaks (`candidate-boundaries.md`) and the book's own markers (speech formulas, the "this is the instruction of ..." subscripts). No Wenham or Sklar on hand. Lane's calls are in `history/improvements_log.md`. Passages use English numbering; Hebrew differences in `[Heb ...]`. Do not run `units-from-map` until Lane says so.
+> Checked 2026-11-12 against Milgrom (Anchor Bible, three volumes; printed pages) and Morales, *Who Shall Ascend the Mountain of the Lord?* (pdf pages, since the ebook has no printed ones), with the Masoretic breaks (`candidate-boundaries.md`) and the book's own markers (speech formulas, the "this is the instruction of ..." subscripts). No Wenham or Sklar on hand. Lane's calls are in `history/improvements_log.md`. Passages use English numbering; Hebrew differences in `[Heb ...]`. `units-from-map` run 2026-11-13 (`--kinds part,section`).
 
 ## Overview
 
