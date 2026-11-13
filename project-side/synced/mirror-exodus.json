@@ -1,0 +1,413 @@
+{
+ "_note": "Proposed by the Wave 2 Leviticus data builder, 2026-11-12. Every `strength` here is a PROPOSAL for Lane to confirm or change; pairs come from the verses (shared words, same beat), the commentary is a pointer only. Spans are English numbering. strength: 3 shared words, 2 same story beat, 1 thematic. All are `echo` pairs: none is proposed as a chiasm ring.",
+ "version": 1,
+ "sources": [
+  {
+   "id": "milgrom-1991",
+   "cite": "Jacob Milgrom, Leviticus 1–16, Anchor Bible 3 (New York: Doubleday, 1991), p. 514 (table lining up the anointing in Exod 29:7, Exod 40:9–13 and Lev 8:10–12).",
+   "what": "Pointer for the anointing pair: Exod 29 has oil poured on Aaron only; Exod 40 anoints the tabernacle, furnishings and Aaron; Lev 8 anoints the tabernacle, sprinkles the altar, then pours oil on Aaron.",
+   "boundary_note": "Used only to point at the passages. The pairs and the shared words come from the verses."
+  },
+  {
+   "id": "oshb",
+   "cite": "Open Scriptures Hebrew Bible (morphhb: Westminster Leningrad Codex with Strong's-based lemmas), https://github.com/openscriptures/morphhb, pinned morphhb@2.0.2; English verse numbers via its VerseMap.xml.",
+   "what": "Every Strong's number in a `shared` entry was found in both cited verses by script.",
+   "boundary_note": "Lemma overlap shows shared vocabulary, not shared meaning; a shared word can be used in a different sense in each place."
+  }
+ ],
+ "pairs": [
+  {
+   "id": "LX1",
+   "tier": "echo",
+   "here": "Lev 8:1–36",
+   "other": "Exod 29:1–37",
+   "title": "Aaron and his sons ordained: the command, then the doing",
+   "strength": 3,
+   "strength_why": "The ordination ram, the blood on ear, thumb and toe, and the wave offering use the same rare words in both.",
+   "shared": [
+    {
+     "label": "ordination (milluʼ)",
+     "ids": [
+      "4394"
+     ],
+     "where": {
+      "here": "Lev 8:22",
+      "other": "Exod 29:22"
+     }
+    },
+    {
+     "label": "lean on the head (samak)",
+     "ids": [
+      "5564"
+     ],
+     "where": {
+      "here": "Lev 8:14",
+      "other": "Exod 29:10"
+     }
+    }
+   ],
+   "beats": [
+    {
+     "title": "Gather the offerings at the door",
+     "here": "Lev 8:2–4",
+     "other": "Exod 29:1–4",
+     "shared": [
+      {
+       "label": "willow basket (sal)",
+       "ids": [
+        "5536"
+       ],
+       "where": {
+        "here": "Lev 8:2",
+        "other": "Exod 29:3"
+       }
+      }
+     ]
+    },
+    {
+     "title": "Garments put on Aaron",
+     "here": "Lev 8:7–9",
+     "other": "Exod 29:5–6",
+     "shared": [
+      {
+       "label": "tunic",
+       "ids": [
+        "3801"
+       ],
+       "where": {
+        "here": "Lev 8:7",
+        "other": "Exod 29:5"
+       }
+      },
+      {
+       "label": "ephod",
+       "ids": [
+        "646"
+       ],
+       "where": {
+        "here": "Lev 8:7",
+        "other": "Exod 29:5"
+       }
+      },
+      {
+       "label": "turban",
+       "ids": [
+        "4701"
+       ],
+       "where": {
+        "here": "Lev 8:9",
+        "other": "Exod 29:6"
+       }
+      }
+     ]
+    },
+    {
+     "title": "The bull: sin offering",
+     "here": "Lev 8:14–17",
+     "other": "Exod 29:10–14",
+     "shared": [
+      {
+       "label": "horn",
+       "ids": [
+        "7161"
+       ],
+       "where": {
+        "here": "Lev 8:15",
+        "other": "Exod 29:12"
+       }
+      },
+      {
+       "label": "liver",
+       "ids": [
+        "3516"
+       ],
+       "where": {
+        "here": "Lev 8:16",
+        "other": "Exod 29:13"
+       }
+      }
+     ]
+    },
+    {
+     "title": "Blood on right ear, thumb and toe",
+     "here": "Lev 8:22–24",
+     "other": "Exod 29:19–21",
+     "shared": [
+      {
+       "label": "thumb",
+       "ids": [
+        "931"
+       ],
+       "where": {
+        "here": "Lev 8:23",
+        "other": "Exod 29:20"
+       }
+      },
+      {
+       "label": "ear",
+       "ids": [
+        "241"
+       ],
+       "where": {
+        "here": "Lev 8:23",
+        "other": "Exod 29:20"
+       }
+      }
+     ]
+    },
+    {
+     "title": "Fat, thigh and the wave offering",
+     "here": "Lev 8:25–29",
+     "other": "Exod 29:22–26",
+     "shared": [
+      {
+       "label": "wave offering (tenuphah)",
+       "ids": [
+        "8573"
+       ],
+       "where": {
+        "here": "Lev 8:27",
+        "other": "Exod 29:24"
+       }
+      },
+      {
+       "label": "breast",
+       "ids": [
+        "2373"
+       ],
+       "where": {
+        "here": "Lev 8:29",
+        "other": "Exod 29:26"
+       }
+      }
+     ]
+    },
+    {
+     "title": "Boil the flesh at the door and eat",
+     "here": "Lev 8:31–32",
+     "other": "Exod 29:31–34",
+     "shared": [
+      {
+       "label": "boil",
+       "ids": [
+        "1310"
+       ],
+       "where": {
+        "here": "Lev 8:31",
+        "other": "Exod 29:31"
+       }
+      },
+      {
+       "label": "what remains",
+       "ids": [
+        "3498"
+       ],
+       "where": {
+        "here": "Lev 8:32",
+        "other": "Exod 29:34"
+       }
+      }
+     ]
+    },
+    {
+     "title": "Seven days",
+     "here": "Lev 8:33–35",
+     "other": "Exod 29:35–37",
+     "shared": [
+      {
+       "label": "seven",
+       "ids": [
+        "7651"
+       ],
+       "where": {
+        "here": "Lev 8:33",
+        "other": "Exod 29:35"
+       }
+      }
+     ]
+    }
+   ],
+   "status": "seed",
+   "source": "oshb",
+   "note": "Exod 29 is the command; Lev 8 has Moses carry it out, nearly step for step. The one move Milgrom's table flags is the altar anointing (see LX2)."
+  },
+  {
+   "id": "LX2",
+   "tier": "echo",
+   "here": "Lev 8:5–13",
+   "other": "Exod 40:9–15",
+   "title": "Washing, dressing and anointing: the tabernacle's order against Lev 8's",
+   "strength": 3,
+   "strength_why": "The basin and its stand (kiyyor, ken) occur together in both verses, and the anointing verb runs through both.",
+   "shared": [
+    {
+     "label": "basin",
+     "ids": [
+      "3595"
+     ],
+     "where": {
+      "here": "Lev 8:11",
+      "other": "Exod 40:11"
+     }
+    },
+    {
+     "label": "stand",
+     "ids": [
+      "3653"
+     ],
+     "where": {
+      "here": "Lev 8:11",
+      "other": "Exod 40:11"
+     }
+    },
+    {
+     "label": "anoint (mashach)",
+     "ids": [
+      "4886"
+     ],
+     "where": {
+      "here": "Lev 8:10",
+      "other": "Exod 40:9"
+     }
+    },
+    {
+     "label": "wash",
+     "ids": [
+      "7364"
+     ],
+     "where": {
+      "here": "Lev 8:6",
+      "other": "Exod 40:12"
+     }
+    },
+    {
+     "label": "tunic",
+     "ids": [
+      "3801"
+     ],
+     "where": {
+      "here": "Lev 8:7",
+      "other": "Exod 40:14"
+     }
+    }
+   ],
+   "status": "seed",
+   "source": "milgrom-1991",
+   "note": "Exod 29:7 has oil on Aaron's head only; Exod 40:9–13 anoints the dwelling and its vessels, the basin, then Aaron; Lev 8:10–12 anoints the dwelling, sprinkles the altar, anoints the altar, vessels, basin and stand, then Aaron. Pair for Lane: whether this and LX1 stay two boxes."
+  },
+  {
+   "id": "LX3",
+   "tier": "echo",
+   "here": "Lev 9:1–21",
+   "other": "Exod 29:38–42",
+   "title": "The first offerings in use: daily lambs against the eighth day",
+   "strength": 2,
+   "strength_why": "Shared lamb, grain offering and oil are the vocabulary of any offering; what matches is the beat of the first regular offerings at the door, so same beat, not same wording.",
+   "shared": [
+    {
+     "label": "lamb/ram (keves)",
+     "ids": [
+      "3532"
+     ],
+     "where": {
+      "here": "Lev 9:3",
+      "other": "Exod 29:38"
+     }
+    },
+    {
+     "label": "grain offering (minchah)",
+     "ids": [
+      "4503"
+     ],
+     "where": {
+      "here": "Lev 9:4",
+      "other": "Exod 29:41"
+     }
+    }
+   ],
+   "status": "seed",
+   "source": "oshb",
+   "note": "Exod 29:38–42 sets the continual going up offering 'at the door of the tent of meeting'; Lev 9 is the first day it is offered after the ordination week."
+  },
+  {
+   "id": "LX4",
+   "tier": "echo",
+   "here": "Lev 9:22–24",
+   "other": "Exod 29:42–46",
+   "title": "'My glory' meets Israel at the tent",
+   "strength": 3,
+   "strength_why": "'Glory' (kavod) and 'tent of meeting' sit in one verse on each side; Exod 29:43 promises it, Lev 9:23 records it.",
+   "shared": [
+    {
+     "label": "glory",
+     "ids": [
+      "3519"
+     ],
+     "where": {
+      "here": "Lev 9:23",
+      "other": "Exod 29:43"
+     }
+    },
+    {
+     "label": "tent of meeting",
+     "ids": [
+      "168",
+      "4150"
+     ],
+     "where": {
+      "here": "Lev 9:23",
+      "other": "Exod 29:44"
+     }
+    }
+   ],
+   "status": "seed",
+   "source": "oshb",
+   "note": "A promise (Exod 29:43–46: I will meet the sons of Israel there, and it will be set apart by my glory) and its first sign (Lev 9:23–24)."
+  },
+  {
+   "id": "LX5",
+   "tier": "echo",
+   "here": "Lev 9:22–24",
+   "other": "Exod 40:34–38",
+   "title": "The glory appears, the cloud covers",
+   "strength": 3,
+   "strength_why": "Both end the setup with 'the glory of YHWH' and the tent of meeting; Lev 9:24 and Exod 40:38 both end on fire.",
+   "shared": [
+    {
+     "label": "glory",
+     "ids": [
+      "3519"
+     ],
+     "where": {
+      "here": "Lev 9:23",
+      "other": "Exod 40:34"
+     }
+    },
+    {
+     "label": "tent of meeting",
+     "ids": [
+      "168",
+      "4150"
+     ],
+     "where": {
+      "here": "Lev 9:23",
+      "other": "Exod 40:35"
+     }
+    },
+    {
+     "label": "fire",
+     "ids": [
+      "784"
+     ],
+     "where": {
+      "here": "Lev 9:24",
+      "other": "Exod 40:38"
+     }
+    }
+   ],
+   "status": "seed",
+   "source": "oshb",
+   "note": "Moses cannot enter in Exod 40:35; in Lev 9:23 Moses and Aaron go in and come out. Pair for Lane: LX4 and LX5 share the same Leviticus verses and could be one box with two twins."
+  }
+ ]
+}

@@ -1,0 +1,339 @@
+{
+ "_note": "Proposed by the Wave 2 Leviticus data builder, 2026-11-12. Every `strength` here is a PROPOSAL for Lane to confirm or change; pairs come from the verses (shared words, same beat), the commentary is a pointer only. Spans are English numbering. strength: 3 shared words, 2 same story beat, 1 thematic. All are `echo` pairs: none is proposed as a chiasm ring.",
+ "version": 1,
+ "sources": [
+  {
+   "id": "tigay-1996",
+   "cite": "Jeffrey H. Tigay, Deuteronomy, JPS Torah Commentary (Philadelphia: Jewish Publication Society, 1996), Excursus 26, pp. 489–92 (structure of Deut 28), with a cross-reference of Lev 26:19 to Deut 28:23.",
+   "what": "Pointer: Tigay calls both chapters a 'tokhehah', divides Deut 28 into blessings (1–14) and curses (15–68), and notes the matched six blessings and curses.",
+   "boundary_note": "Lev 26 is touched in passing there. Pairs and shared words come from the verses."
+  },
+  {
+   "id": "oshb",
+   "cite": "Open Scriptures Hebrew Bible (morphhb: Westminster Leningrad Codex with Strong's-based lemmas), https://github.com/openscriptures/morphhb, pinned morphhb@2.0.2; English verse numbers via its VerseMap.xml.",
+   "what": "Every Strong's number in a `shared` entry was found in both cited verses by script.",
+   "boundary_note": "Lemma overlap shows shared vocabulary, not shared meaning; a shared word can be used in a different sense in each place."
+  }
+ ],
+ "pairs": [
+  {
+   "id": "LD0",
+   "tier": "echo",
+   "here": "Lev 26:3–45",
+   "other": "Deut 28:1–68",
+   "title": "Blessings, then curses: the same shape in two chapters",
+   "strength": 2,
+   "strength_why": "Same beat across the whole: if you keep the commands, blessings; if you do not, curses in escalating stages.",
+   "status": "seed",
+   "source": "tigay-1996",
+   "note": "Lev 26 sets the curses in stages marked 'seven times' (vv. 18, 21, 24, 28); Deut 28 has a longer curse half (15–68) and a hinge at v. 45. Wide pair: the narrower pairs below nest inside it."
+  },
+  {
+   "id": "LD1",
+   "tier": "echo",
+   "here": "Lev 26:3–13",
+   "other": "Deut 28:1–14",
+   "title": "If you keep my commands: the blessings",
+   "strength": 3,
+   "strength_why": "Both open 'if you keep my commandments' and then promise fruit of the field.",
+   "shared": [
+    {
+     "label": "commandment (mitsvah)",
+     "ids": [
+      "4687"
+     ],
+     "where": {
+      "here": "Lev 26:3",
+      "other": "Deut 28:1"
+     }
+    },
+    {
+     "label": "keep (shamar)",
+     "ids": [
+      "8104"
+     ],
+     "where": {
+      "here": "Lev 26:3",
+      "other": "Deut 28:1"
+     }
+    },
+    {
+     "label": "fruit",
+     "ids": [
+      "6529"
+     ],
+     "where": {
+      "here": "Lev 26:4",
+      "other": "Deut 28:4"
+     }
+    },
+    {
+     "label": "field",
+     "ids": [
+      "7704"
+     ],
+     "where": {
+      "here": "Lev 26:4",
+      "other": "Deut 28:3"
+     }
+    }
+   ],
+   "status": "seed",
+   "source": "tigay-1996",
+   "note": "Lev 26:4 gives rain 'in its season'; Deut 28:12 opens the sky 'in its season' (same word for season, ʻet)."
+  },
+  {
+   "id": "LD2",
+   "tier": "echo",
+   "here": "Lev 26:14–15",
+   "other": "Deut 28:15",
+   "title": "If you do not listen: the curses open",
+   "strength": 3,
+   "strength_why": "'If you will not listen' with commandments and statutes (mitsvah, chuqqah) in the same clause.",
+   "shared": [
+    {
+     "label": "commandment",
+     "ids": [
+      "4687"
+     ],
+     "where": {
+      "here": "Lev 26:15",
+      "other": "Deut 28:15"
+     }
+    },
+    {
+     "label": "statute (chuqqah)",
+     "ids": [
+      "2708"
+     ],
+     "where": {
+      "here": "Lev 26:15",
+      "other": "Deut 28:15"
+     }
+    },
+    {
+     "label": "listen",
+     "ids": [
+      "8085"
+     ],
+     "where": {
+      "here": "Lev 26:14",
+      "other": "Deut 28:15"
+     }
+    }
+   ],
+   "status": "seed",
+   "source": "tigay-1996"
+  },
+  {
+   "id": "LD3",
+   "tier": "echo",
+   "here": "Lev 26:16",
+   "other": "Deut 28:22",
+   "title": "Wasting disease and fever",
+   "strength": 3,
+   "strength_why": "Two rare words, shachepheth and qaddachath, occur together in both verses (two rare words, two occurrences each in the Torah's text we hold).",
+   "shared": [
+    {
+     "label": "wasting (shachepheth)",
+     "ids": [
+      "7829"
+     ],
+     "where": {
+      "here": "Lev 26:16",
+      "other": "Deut 28:22"
+     }
+    },
+    {
+     "label": "fever (qaddachath)",
+     "ids": [
+      "6920"
+     ],
+     "where": {
+      "here": "Lev 26:16",
+      "other": "Deut 28:22"
+     }
+    }
+   ],
+   "status": "seed",
+   "source": "oshb"
+  },
+  {
+   "id": "LD4",
+   "tier": "echo",
+   "here": "Lev 26:17–18",
+   "other": "Deut 28:25",
+   "title": "Struck before your enemies; flight",
+   "strength": 3,
+   "strength_why": "Strike (nagaph), flee (nus) and enemy (oyev) in one verse each; both carry a number of ways or times: seven.",
+   "shared": [
+    {
+     "label": "be struck (nagaph)",
+     "ids": [
+      "5062"
+     ],
+     "where": {
+      "here": "Lev 26:17",
+      "other": "Deut 28:25"
+     }
+    },
+    {
+     "label": "flee (nus)",
+     "ids": [
+      "5127"
+     ],
+     "where": {
+      "here": "Lev 26:17",
+      "other": "Deut 28:25"
+     }
+    },
+    {
+     "label": "enemy",
+     "ids": [
+      "341"
+     ],
+     "where": {
+      "here": "Lev 26:17",
+      "other": "Deut 28:25"
+     }
+    },
+    {
+     "label": "seven",
+     "ids": [
+      "7651"
+     ],
+     "where": {
+      "here": "Lev 26:18",
+      "other": "Deut 28:25"
+     }
+    }
+   ],
+   "status": "seed",
+   "source": "oshb",
+   "note": "Lev 26:17 has them flee 'when none pursues' (and again in 26:36–37); Deut 28:25 has them flee 'seven ways' from the one enemy they came out against 'one way'."
+  },
+  {
+   "id": "LD5",
+   "tier": "echo",
+   "here": "Lev 26:19",
+   "other": "Deut 28:23",
+   "title": "Sky of iron, earth of bronze",
+   "strength": 3,
+   "strength_why": "Sky, iron and earth in the same image (bronze is a different word in each); Tigay cross-references the two verses.",
+   "shared": [
+    {
+     "label": "iron",
+     "ids": [
+      "1270"
+     ],
+     "where": {
+      "here": "Lev 26:19",
+      "other": "Deut 28:23"
+     }
+    },
+    {
+     "label": "sky",
+     "ids": [
+      "8064"
+     ],
+     "where": {
+      "here": "Lev 26:19",
+      "other": "Deut 28:23"
+     }
+    },
+    {
+     "label": "earth",
+     "ids": [
+      "776"
+     ],
+     "where": {
+      "here": "Lev 26:19",
+      "other": "Deut 28:23"
+     }
+    }
+   ],
+   "status": "seed",
+   "source": "tigay-1996",
+   "note": "The metals trade places (and 'bronze' is nechushah in Lev, nechoshet in Deut): iron for the sky and bronze for the earth in Lev 26:19; bronze for the sky and iron for the earth in Deut 28:23."
+  },
+  {
+   "id": "LD6",
+   "tier": "echo",
+   "here": "Lev 26:21–25",
+   "other": "Deut 28:21–22",
+   "title": "Plague, pestilence",
+   "strength": 3,
+   "strength_why": "'Blows' (makkah) in Lev 26:21 and in Deut 28:59, 61; 'pestilence' (deber) in Lev 26:25 and Deut 28:21.",
+   "shared": [
+    {
+     "label": "pestilence",
+     "ids": [
+      "1698"
+     ],
+     "where": {
+      "here": "Lev 26:25",
+      "other": "Deut 28:21"
+     }
+    }
+   ],
+   "status": "seed",
+   "source": "oshb",
+   "note": "Lev 26:21 'seven times more plagues' against Deut 28:59–61 'extraordinary plagues' (outside this pair's span, listed for Lane)."
+  },
+  {
+   "id": "LD7",
+   "tier": "echo",
+   "here": "Lev 26:29",
+   "other": "Deut 28:53",
+   "title": "They eat the flesh of their sons and daughters",
+   "strength": 3,
+   "strength_why": "Eat, flesh, sons and daughters in one clause each.",
+   "shared": [
+    {
+     "label": "eat",
+     "ids": [
+      "398"
+     ],
+     "where": {
+      "here": "Lev 26:29",
+      "other": "Deut 28:53"
+     }
+    },
+    {
+     "label": "flesh",
+     "ids": [
+      "1320"
+     ],
+     "where": {
+      "here": "Lev 26:29",
+      "other": "Deut 28:53"
+     }
+    },
+    {
+     "label": "daughter",
+     "ids": [
+      "1323"
+     ],
+     "where": {
+      "here": "Lev 26:29",
+      "other": "Deut 28:53"
+     }
+    }
+   ],
+   "status": "seed",
+   "source": "oshb",
+   "note": "Deut 28:53–57 extends the scene at length (siege, the tender woman); Lev 26:29 gives it one verse."
+  },
+  {
+   "id": "LD8",
+   "tier": "echo",
+   "here": "Lev 26:33",
+   "other": "Deut 28:64",
+   "title": "Scattered among the nations",
+   "strength": 2,
+   "strength_why": "Same beat, exile among other peoples; no distinctive word is shared (Lev 26:33 'nations' gôyim, Deut 28:64 'peoples').",
+   "status": "seed",
+   "source": "tigay-1996"
+  }
+ ]
+}
