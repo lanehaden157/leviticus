@@ -39,9 +39,14 @@ unit is more likely right.
 | moʿadim | moʿadim | **meeting times** | Lev 23's heading word; keeps the link to moʿed in "Tent of Meeting". |
 | ḥag hassukkot | ḥag hassukkot | **Festival of Shelters** | 23:34; Deut 16:13. A sukkah is a shelter; avoids the sanctuary's "tabernacle". |
 | yom teruʿah | teruʿah | **day of shouting** | First day of the seventh month (23:24; Num 29:1); "remembrance" stays in 23:24's wording. |
+| minḥah | minḥah | **gift offering** | Keeps the word's wider sense of a gift (Gen 4:3); Lev 2 says what it is made of. |
+| shelamim | shelamim | **well-being offering** | "well-being" for shalom; the offerer eats it (7:11–36). |
+| ʾishsheh | ʾishsheh | **fire offering** | 1:9 "a fire offering, a soothing aroma"; Milgrom's "food gift" goes in a note where no fire is involved (24:7–9). |
+| ʿatseret | ʿatseret | **closing gathering** | The feast's closing day (23:36; Num 29:35; Deut 16:8). |
 
 ## Log
 
 - 2026-11-12: all ten fixed terms decided by Lane (popups), plus the Day of Coverings.
 - 2026-11-12: tabernacle zone names and kapporet decided by Lane (Wave 2 popup).
 - 2026-11-13: calendar terms decided by Lane (Wave 2 popup): holy gathering, meeting times, Festival of Shelters, day of shouting.
+- 2026-11-13: gift offering, well-being offering, fire offering, closing gathering decided by Lane (Wave 2 popup).
