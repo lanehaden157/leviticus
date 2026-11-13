@@ -40,6 +40,167 @@ It cannot see: common words (rare cutoff: 20 verses in the Hebrew Bible), links 
 - **ha-torim ʾo** (H8449 + H176: ring-dove / desire; or; if) — Lev 1:14
   - Num 6:10 — torim ʾo
 
+### Rare words together in a Torah verse, any order (78)
+
+Two rare words from one verse here that share a Torah verse, not necessarily adjacent or in this order (same frequency caps as the phrases above).
+
+- **yaqrib + qarban** (H7126 + H7133: approach; bring near / brought near; present) — Lev 1:2
+  - Num 6:14 (we-hiqrib, qarban-wo); Num 7:3 (wa-yyaqribu, qarbana-m); Num 7:10 (wa-yyaqribu, qarbana-m); Num 7:11 (yaqribu, qarbana-m); Num 7:12 (ha-mmaqrib, qarban-wo); Num 7:19 (hiqrib, qarban-wo); Num 9:7 (haqrib, qarban); Num 9:13 (hiqrib, qarban); Num 15:4 (we-hiqrib, qarban-wo); Num 28:2 (le-haqrib, qarbani-y); Num 31:50 (wa-nnaqreb, qarban)
+- **yaqrib + ha-behemah** (H7126 + H929: approach; bring near / mute; dumb; animal) — Lev 1:2
+  - Num 18:15 (yaqribu, u-ba-behemah)
+- **yaqrib + ha-baqar** (H7126 + H1241: approach; bring near / beeve; plowing; herd) — Lev 1:2
+  - Num 7:3 (wa-yyaqribu, baqar); Num 15:9 (we-hiqrib, ha-baqar); Num 28:11 (taqribu, baqar); Num 28:19 (we-hiqrabtem, baqar); Num 28:27 (we-hiqrabtem, baqar); Num 29:8 (we-hiqrabtem, baqar); Num 29:13 (we-hiqrabtem, baqar)
+- **qarban + ha-baqar** (H7133 + H1241: brought near; present / beeve; plowing; herd) — Lev 1:2, 1:3
+  - Num 7:3 (qarbana-m, baqar); Num 7:17 (qarban, baqar); Num 7:23 (qarban, baqar); Num 7:29 (qarban, baqar); Num 7:35 (qarban, baqar); Num 7:41 (qarban, baqar); Num 7:47 (qarban, baqar); Num 7:53 (qarban, baqar); Num 7:59 (qarban, baqar); Num 7:65 (qarban, baqar); Num 7:71 (qarban, baqar); Num 7:77 (qarban, baqar); Num 7:83 (qarban, baqar)
+- **ha-behemah + ha-baqar** (H929 + H1241: mute; dumb; animal / beeve; plowing; herd) — Lev 1:2
+  - Num 31:30 (ha-behemah, ha-baqar)
+- **ha-behemah + ha-tstsoʾn** (H929 + H6629: mute; dumb; animal / migrate; flock) — Lev 1:2
+  - Num 31:30 (ha-behemah, ha-tstsoʾn); Deut 28:4 (behemte-ka, tsoʾne-ka); Deut 28:51 (behemt-ka, tsoʾne-ka)
+- **ʿ̲olah + qarban-wo** (H5930 + H7133: step; holocaust / brought near; present) — Lev 1:3, 1:14
+  - Num 6:14 (le-ʿ̲olah, qarban-wo)
+- **ʿ̲olah + tamim** (H5930 + H8549: step; holocaust / entire; integrity; truth) — Lev 1:3, 1:10
+  - Num 6:14 (le-ʿ̲olah, tamim); Num 28:3 (ʿ̲olah, temimim); Num 28:11 (ʿ̲olah, temimim); Num 28:19 (ʿ̲olah, temimim); Num 28:31 (ʿ̲olat, temimim); Num 29:2 (ʿ̲olah, temimim); Num 29:8 (ʿ̲olah, temimim); Num 29:13 (ʿ̲olah, temimim); Num 29:36 (ʿ̲olah, temimim)
+- **ʿ̲olah + yaqribe-nnu** (H5930 + H7126: step; holocaust / approach; bring near) — Lev 1:3, 1:10, 1:14
+  - Num 6:14 (le-ʿ̲olah, we-hiqrib); Num 6:16 (ʿ̲olat-wo, we-hiqrib); Num 28:3 (ʿ̲olah, taqribu); Num 28:11 (ʿ̲olah, taqribu); Num 28:19 (ʿ̲olah, we-hiqrabtem); Num 28:27 (ʿ̲olah, we-hiqrabtem); Num 29:8 (ʿ̲olah, we-hiqrabtem); Num 29:13 (ʿ̲olah, we-hiqrabtem); Num 29:36 (ʿ̲olah, we-hiqrabtem)
+- **ʿ̲olah + petaḥ** (H5930 + H6607: step; holocaust / opening; door; entrance way) — Lev 1:3
+  - Exod 29:42 (ʿ̲olat, petaḥ); Exod 40:6 (ha-ʿ̲olah, petaḥ); Exod 40:29 (ha-ʿ̲olah, petaḥ)
+- **ʿ̲olah + moʿ̲ed** (H5930 + H4150: step; holocaust / appointment; time; festival) — Lev 1:3
+  - Exod 29:42 (ʿ̲olat, moʿ̲ed); Exod 40:6 (ha-ʿ̲olah, moʿ̲ed); Exod 40:29 (ha-ʿ̲olah, moʿ̲ed); Num 10:10 (ʿ̲olote-kem, u-be-moʿ̲ade-kem); Num 15:3 (ʿ̲olah, be-moʿ̲ade-kem); Num 29:39 (le-ʿ̲olote-kem, be-moʿ̲ade-kem)
+- **qarban-wo + tamim** (H7133 + H8549: brought near; present / entire; integrity; truth) — Lev 1:3, 1:10
+  - Num 6:14 (qarban-wo, tamim)
+- **qarban-wo + yaqribe-nnu** (H7133 + H7126: brought near; present / approach; bring near) — Lev 1:3, 1:10, 1:14
+  - Num 6:14 (qarban-wo, we-hiqrib); Num 7:3 (qarbana-m, wa-yyaqribu); Num 7:10 (qarbana-m, wa-yyaqribu); Num 7:11 (qarbana-m, yaqribu); Num 7:12 (qarban-wo, ha-mmaqrib); Num 7:19 (qarban-wo, hiqrib); Num 9:7 (qarban, haqrib); Num 9:13 (qarban, hiqrib); Num 15:4 (qarban-wo, we-hiqrib); Num 28:2 (qarbani-y, le-haqrib); Num 31:50 (qarban, wa-nnaqreb)
+- **qarban-wo + moʿ̲ed** (H7133 + H4150: brought near; present / appointment; time; festival) — Lev 1:3
+  - Num 9:7 (qarban, be-moʿ̲ad-wo); Num 9:13 (qarban, be-moʿ̲ad-wo); Num 28:2 (qarbani-y, be-moʿ̲ad-wo)
+- **ha-baqar + zakar** (H1241 + H2145: beeve; plowing; herd / remembered; male) — Lev 1:3
+  - Deut 15:19 (bi-beqar-ka, ha-zzakar)
+- **ha-baqar + tamim** (H1241 + H8549: beeve; plowing; herd / entire; integrity; truth) — Lev 1:3
+  - Exod 29:1 (baqar, temimim); Num 28:11 (baqar, temimim); Num 28:19 (baqar, temimim); Num 29:2 (baqar, temimim); Num 29:8 (baqar, temimim); Num 29:13 (baqar, temimim); Num 29:17 (baqar, temimim)
+- **ha-baqar + yaqribe-nnu** (H1241 + H7126: beeve; plowing; herd / approach; bring near) — Lev 1:3, 1:5
+  - Num 7:3 (baqar, wa-yyaqribu); Num 15:9 (ha-baqar, we-hiqrib); Num 28:11 (baqar, taqribu); Num 28:19 (baqar, we-hiqrabtem); Num 28:27 (baqar, we-hiqrabtem); Num 29:8 (baqar, we-hiqrabtem); Num 29:13 (baqar, we-hiqrabtem)
+- **ha-baqar + moʿ̲ed** (H1241 + H4150: beeve; plowing; herd / appointment; time; festival) — Lev 1:3, 1:5
+  - Num 15:3 (ha-baqar, be-moʿ̲ade-kem)
+- **zakar + tamim** (H2145 + H8549: remembered; male / entire; integrity; truth) — Lev 1:3, 1:10
+  - Exod 12:5 (zakar, tamim)
+- **zakar + yaqribe-nnu** (H2145 + H7126: remembered; male / approach; bring near) — Lev 1:3, 1:10
+  - Exod 12:48 (zakar, yiqrab)
+- **tamim + yaqribe-nnu** (H8549 + H7126: entire; integrity; truth / approach; bring near) — Lev 1:3, 1:10
+  - Num 6:14 (tamim, we-hiqrib); Num 28:3 (temimim, taqribu); Num 28:11 (temimim, taqribu); Num 28:19 (temimim, we-hiqrabtem); Num 29:8 (temimim, we-hiqrabtem); Num 29:13 (temimim, we-hiqrabtem); Num 29:36 (temimim, we-hiqrabtem)
+- **yaqribe-nnu + petaḥ** (H7126 + H6607: approach; bring near / opening; door; entrance way) — Lev 1:3, 1:5
+  - Exod 29:4 (taqrib, petaḥ); Exod 40:12 (we-hiqrabta, petaḥ); Num 25:6 (wa-yyaqreb, petaḥ)
+- **we-samak + ha-ʿ̲olah** (H5564 + H5930: prop; lean upon; take hold of / step; holocaust) — Lev 1:4
+  - Num 8:12 (yismeku, ʿ̲olah)
+- **we-samak + le-kapper** (H5564 + H3722: prop; lean upon; take hold of / cover; expiate; condone) — Lev 1:4
+  - Num 8:12 (yismeku, le-kapper)
+- **ha-ʿ̲olah + le-kapper** (H5930 + H3722: step; holocaust / cover; expiate; condone) — Lev 1:4
+  - Num 6:11 (le-ʿ̲olah, we-kipper); Num 8:12 (ʿ̲olah, le-kapper)
+- **we-shaḥaṭ + ha-baqar** (H7819 + H1241: slaughter / beeve; plowing; herd) — Lev 1:5
+  - Num 11:22 (yishshaḥeṭ, u-baqar)
+- **we-shaḥaṭ + ha-dam** (H7819 + H1818: slaughter / blood; juice; bloodshed) — Lev 1:5, 1:11
+  - Gen 37:31 (wa-yyishḥaṭu, ba-dam); Exod 29:16 (we-shaḥaṭta, dam-wo); Exod 29:20 (we-shaḥaṭta, mi-dam-wo); Exod 34:25 (tishḥaṭ, dam)
+- **we-shaḥaṭ + we-zarqu** (H7819 + H2236: slaughter / sprinkle) — Lev 1:5, 1:11
+  - Exod 29:16 (we-shaḥaṭta, we-zaraqta); Exod 29:20 (we-shaḥaṭta, we-zaraqta)
+- **we-shaḥaṭ + sabib** (H7819 + H5439: slaughter / circle; neighbour; environs) — Lev 1:5, 1:11
+  - Exod 29:16 (we-shaḥaṭta, sabib); Exod 29:20 (we-shaḥaṭta, sabib)
+- **we-shaḥaṭ + petaḥ** (H7819 + H6607: slaughter / opening; door; entrance way) — Lev 1:5
+  - Exod 29:11 (we-shaḥaṭta, petaḥ)
+- **we-shaḥaṭ + moʿ̲ed** (H7819 + H4150: slaughter / appointment; time; festival) — Lev 1:5
+  - Exod 29:11 (we-shaḥaṭta, moʿ̲ed)
+- **ha-baqar + ha-dam** (H1241 + H1818: beeve; plowing; herd / blood; juice; bloodshed) — Lev 1:5
+  - Deut 32:14 (baqar, we-dam)
+- **ha-dam + sabib** (H1818 + H5439: blood; juice; bloodshed / circle; neighbour; environs) — Lev 1:5, 1:11
+  - Exod 29:16 (dam-wo, sabib); Exod 29:20 (mi-dam-wo, sabib)
+- **ha-dam + petaḥ** (H1818 + H6607: blood; juice; bloodshed / opening; door; entrance way) — Lev 1:5
+  - Exod 12:22 (ba-dam, mi-petaḥ); Exod 12:23 (ha-dam, ha-petaḥ)
+- **ha-dam + moʿ̲ed** (H1818 + H4150: blood; juice; bloodshed / appointment; time; festival) — Lev 1:5
+  - Num 19:4 (mi-dama-h, moʿ̲ed)
+- **we-zarqu + sabib** (H2236 + H5439: sprinkle / circle; neighbour; environs) — Lev 1:5, 1:11
+  - Exod 29:16 (we-zaraqta, sabib); Exod 29:20 (we-zaraqta, sabib)
+- **sabib + petaḥ** (H5439 + H6607: circle; neighbour; environs / opening; door; entrance way) — Lev 1:5
+  - Num 3:26 (sabib, petaḥ); Num 4:26 (sabib, petaḥ); Num 16:27 (mi-ssabib, petaḥ)
+- **sabib + moʿ̲ed** (H5439 + H4150: circle; neighbour; environs / appointment; time; festival) — Lev 1:5
+  - Num 2:2 (sabib, moʿ̲ed)
+- **we-nittaḥ + li-netaḥey-ha** (H5408 + H5409: dismember / fragment) — Lev 1:6, 1:12
+  - Exod 29:17 (tenatteaḥ, li-netaḥay-w)
+- **we-ʿ̲arku + ʿ̲etsim** (H6186 + H6086: row; arrange; order / tree; wood) — Lev 1:7, 1:8, 1:12
+  - Gen 22:9 (wa-yyaʿ̲arok, ha-ʿ̲etsim)
+- **we-qirb-wo + yirḥats** (H7130 + H7364: nearest; center / lave) — Lev 1:9, 1:13
+  - Exod 29:17 (qirb-wo, we-raḥatsta)
+- **we-qirb-wo + we-hiqṭir** (H7130 + H6999: nearest; center / smoke; turn into fragrance by fire) — Lev 1:9, 1:13
+  - Exod 29:13 (ha-qqereb, we-hiqṭarta)
+- **u-keraʿ̲ay-w + yirḥats** (H3767 + H7364: leg / lave) — Lev 1:9, 1:13
+  - Exod 29:17 (u-keraʿ̲ay-w, we-raḥatsta)
+- **yirḥats + we-hiqṭir** (H7364 + H6999: lave / smoke; turn into fragrance by fire) — Lev 1:9, 1:13
+  - Exod 30:20 (yirḥatsu, le-haqṭir)
+- **yirḥats + ʾishsheh** (H7364 + H801: lave / burnt-offering; sacrifice) — Lev 1:9, 1:13
+  - Exod 30:20 (yirḥatsu, ʾishsheh)
+- **we-hiqṭir + ʿ̲olah** (H6999 + H5930: smoke; turn into fragrance by fire / step; holocaust) — Lev 1:9, 1:13, 1:17
+  - Exod 29:18 (we-hiqṭarta, ʿ̲olah); Exod 29:25 (we-hiqṭarta, ha-ʿ̲olah)
+- **we-hiqṭir + ʾishsheh** (H6999 + H801: smoke; turn into fragrance by fire / burnt-offering; sacrifice) — Lev 1:9, 1:13, 1:17
+  - Exod 29:18 (we-hiqṭarta, ʾishsheh); Exod 29:25 (we-hiqṭarta, ʾishsheh); Exod 30:20 (le-haqṭir, ʾishsheh); Num 18:17 (taqṭir, ʾishsheh)
+- **we-hiqṭir + reaḥ** (H6999 + H7381: smoke; turn into fragrance by fire / odor) — Lev 1:9, 1:13, 1:17
+  - Exod 29:18 (we-hiqṭarta, reaḥ); Exod 29:25 (we-hiqṭarta, le-reaḥ); Num 18:17 (taqṭir, le-reaḥ)
+- **we-hiqṭir + niḥoaḥ** (H6999 + H5207: smoke; turn into fragrance by fire / restful; pleasant; delight) — Lev 1:9, 1:13, 1:17
+  - Exod 29:18 (we-hiqṭarta, niḥoaḥ); Exod 29:25 (we-hiqṭarta, niḥoaḥ); Num 18:17 (taqṭir, niḥoaḥ)
+- **ʿ̲olah + reaḥ** (H5930 + H7381: step; holocaust / odor) — Lev 1:9, 1:13, 1:17
+  - Exod 29:18 (ʿ̲olah, reaḥ); Exod 29:25 (ha-ʿ̲olah, le-reaḥ); Num 15:3 (ʿ̲olah, reaḥ); Num 15:24 (le-ʿ̲olah, le-reaḥ); Num 28:6 (ʿ̲olat, le-reaḥ); Num 28:13 (ʿ̲olah, reaḥ); Num 28:24 (ʿ̲olat, reaḥ); Num 28:27 (ʿ̲olah, le-reaḥ); Num 29:2 (ʿ̲olah, le-reaḥ); Num 29:6 (ʿ̲olat, le-reaḥ); Num 29:8 (ʿ̲olah, reaḥ); Num 29:13 (ʿ̲olah, reaḥ); Num 29:36 (ʿ̲olah, reaḥ)
+- **ʿ̲olah + niḥoaḥ** (H5930 + H5207: step; holocaust / restful; pleasant; delight) — Lev 1:9, 1:13, 1:17
+  - Exod 29:18 (ʿ̲olah, niḥoaḥ); Exod 29:25 (ha-ʿ̲olah, niḥoaḥ); Num 15:3 (ʿ̲olah, niḥoaḥ); Num 15:24 (le-ʿ̲olah, niḥoaḥ); Num 28:6 (ʿ̲olat, niḥoaḥ); Num 28:13 (ʿ̲olah, niḥoaḥ); Num 28:24 (ʿ̲olat, niḥoaḥ); Num 28:27 (ʿ̲olah, niḥoaḥ); Num 29:2 (ʿ̲olah, niḥoaḥ); Num 29:6 (ʿ̲olat, niḥoaḥ); Num 29:8 (ʿ̲olah, niḥoaḥ); Num 29:13 (ʿ̲olah, niḥoaḥ); Num 29:36 (ʿ̲olah, niḥoaḥ)
+- **ha-tstsoʾn + ha-keśabim** (H6629 + H3775: migrate; flock / young sheep) — Lev 1:10
+  - Gen 30:32 (tsoʾn-ka, ba-keśabim); Gen 30:40 (ha-tstsoʾn, we-ha-keśabim)
+- **ha-tstsoʾn + ʾo** (H6629 + H176: migrate; flock / desire; or; if) — Lev 1:10
+  - Gen 31:43 (we-ha-tstsoʾn, ʾo); Exod 22:1 (tsoʾn, ʾo); Num 15:3 (ha-tstsoʾn, ʾo)
+- **ha-tstsoʾn + ha-ʿ̲izzim** (H6629 + H5795: migrate; flock / she-goat) — Lev 1:10
+  - Gen 27:9 (ha-tstsoʾn, ʿ̲izzim); Gen 30:32 (tsoʾn-ka, ba-ʿ̲izzim); Gen 31:38 (tsoʾn-ka, we-ʿ̲izzey-ka); Gen 38:17 (ha-tstsoʾn, ʿ̲izzim)
+- **ha-tstsoʾn + le-ʿ̲olah** (H6629 + H5930: migrate; flock / step; holocaust) — Lev 1:10
+  - Exod 20:24 (tsoʾn-ka, ʿ̲olotey-ka); Num 15:3 (ha-tstsoʾn, ʿ̲olah); Deut 12:6 (we-tsoʾn-kem, ʿ̲olote-kem)
+- **ha-tstsoʾn + zakar** (H6629 + H2145: migrate; flock / remembered; male) — Lev 1:10
+  - Deut 15:19 (u-be-tsoʾn-ka, ha-zzakar)
+- **qarban-wo + le-ʿ̲olah** (H7133 + H5930: brought near; present / step; holocaust) — Lev 1:10
+  - Num 6:14 (qarban-wo, le-ʿ̲olah)
+- **ha-keśabim + ha-ʿ̲izzim** (H3775 + H5795: young sheep / she-goat) — Lev 1:10
+  - Gen 30:32 (ba-keśabim, ba-ʿ̲izzim); Gen 30:33 (ba-keśabim, ba-ʿ̲izzim); Gen 30:35 (ba-keśabim, ha-ʿ̲izzim); Num 18:17 (keśeb, ʿ̲ez); Deut 14:4 (keśabim, ʿ̲izzim)
+- **ʾo + ha-ʿ̲izzim** (H176 + H5795: desire; or; if / she-goat) — Lev 1:10
+  - Num 15:11 (ʾo, ba-ʿ̲izzim); Num 18:17 (ʾo, ʿ̲ez)
+- **ʾo + le-ʿ̲olah** (H176 + H5930: desire; or; if / step; holocaust) — Lev 1:10
+  - Num 15:3 (ʾo, ʿ̲olah); Num 15:5 (ʾo, ha-ʿ̲olah); Num 15:8 (ʾo, ʿ̲olah)
+- **ʾo + zakar** (H176 + H2145: desire; or; if / remembered; male) — Lev 1:10
+  - Deut 4:16 (ʾo, zakar)
+- **ha-ʿ̲izzim + le-ʿ̲olah** (H5795 + H5930: she-goat / step; holocaust) — Lev 1:10
+  - Num 7:87 (ʿ̲izzim, la-ʿ̲olah); Num 15:24 (ʿ̲izzim, le-ʿ̲olah); Num 28:15 (ʿ̲izzim, ʿ̲olat); Num 29:11 (ʿ̲izzim, we-ʿ̲olat); Num 29:16 (ʿ̲izzim, ʿ̲olat); Num 29:19 (ʿ̲izzim, ʿ̲olat); Num 29:25 (ʿ̲izzim, ʿ̲olat)
+- **ha-ʿ̲izzim + zakar** (H5795 + H2145: she-goat / remembered; male) — Lev 1:10
+  - Exod 12:5 (ha-ʿ̲izzim, zakar)
+- **ha-ʿ̲izzim + tamim** (H5795 + H8549: she-goat / entire; integrity; truth) — Lev 1:10
+  - Exod 12:5 (ha-ʿ̲izzim, tamim)
+- **ha-ʿ̲izzim + yaqribe-nnu** (H5795 + H7126: she-goat / approach; bring near) — Lev 1:10
+  - Num 15:27 (ʿ̲ez, we-hiqribah)
+- **yerek + tsapona-h** (H3409 + H6828: thigh; generative parts; shank / hidden; dark; north) — Lev 1:11
+  - Exod 40:22 (yerek, tsapona-h); Num 3:35 (yerek, tsapona-h)
+- **yirḥats + we-hiqrib** (H7364 + H7126: lave / approach; bring near) — Lev 1:13
+  - Exod 29:4 (we-raḥatsta, taqrib); Exod 40:12 (we-raḥatsta, we-hiqrabta); Exod 40:32 (yirḥatsu, u-be-qarbata-m)
+- **we-hiqrib + we-hiqṭir** (H7126 + H6999: approach; bring near / smoke; turn into fragrance by fire) — Lev 1:13, 1:15
+  - Num 16:40 (yiqrab, le-haqṭir)
+- **we-hiqrib + ʿ̲olah** (H7126 + H5930: approach; bring near / step; holocaust) — Lev 1:13
+  - Num 6:14 (we-hiqrib, le-ʿ̲olah); Num 6:16 (we-hiqrib, ʿ̲olat-wo); Num 28:3 (taqribu, ʿ̲olah); Num 28:11 (taqribu, ʿ̲olah); Num 28:19 (we-hiqrabtem, ʿ̲olah); Num 28:27 (we-hiqrabtem, ʿ̲olah); Num 29:8 (we-hiqrabtem, ʿ̲olah); Num 29:13 (we-hiqrabtem, ʿ̲olah); Num 29:36 (we-hiqrabtem, ʿ̲olah)
+- **we-hiqrib + ʾishsheh** (H7126 + H801: approach; bring near / burnt-offering; sacrifice) — Lev 1:13
+  - Num 15:10 (taqrib, ʾishsheh); Num 15:13 (le-haqrib, ʾishsheh); Num 28:2 (le-haqrib, le-ʾishsha-y); Num 28:3 (taqribu, ha-ʾishsheh); Num 28:19 (we-hiqrabtem, ʾishsheh); Num 29:13 (we-hiqrabtem, ʾishsheh); Num 29:36 (we-hiqrabtem, ʾishsheh)
+- **we-hiqrib + reaḥ** (H7126 + H7381: approach; bring near / odor) — Lev 1:13
+  - Num 15:7 (taqrib, reaḥ); Num 15:10 (taqrib, reaḥ); Num 15:13 (le-haqrib, reaḥ); Num 28:2 (le-haqrib, reaḥ); Num 28:27 (we-hiqrabtem, le-reaḥ); Num 29:8 (we-hiqrabtem, reaḥ); Num 29:13 (we-hiqrabtem, reaḥ); Num 29:36 (we-hiqrabtem, reaḥ)
+- **we-hiqrib + niḥoaḥ** (H7126 + H5207: approach; bring near / restful; pleasant; delight) — Lev 1:13
+  - Num 15:7 (taqrib, niḥoaḥ); Num 15:10 (taqrib, niḥoaḥ); Num 15:13 (le-haqrib, niḥoaḥ); Num 28:2 (le-haqrib, niḥoḥi-y); Num 28:27 (we-hiqrabtem, niḥoaḥ); Num 29:8 (we-hiqrabtem, niḥoaḥ); Num 29:13 (we-hiqrabtem, niḥoaḥ); Num 29:36 (we-hiqrabtem, niḥoaḥ)
+- **ha-ʿ̲op + ʿ̲olah** (H5775 + H5930: bird / step; holocaust) — Lev 1:14
+  - Gen 8:20 (ha-ʿ̲op, ʿ̲olot)
+- **ʿ̲olah + ʾo** (H5930 + H176: step; holocaust / desire; or; if) — Lev 1:14
+  - Num 15:3 (ʿ̲olah, ʾo); Num 15:5 (ha-ʿ̲olah, ʾo); Num 15:8 (ʿ̲olah, ʾo)
+- **ha-torim + ha-yyonah** (H8449 + H3123: ring-dove / dove) — Lev 1:14
+  - Num 6:10 (torim, yonah)
+- **ʾo + ha-yyonah** (H176 + H3123: desire; or; if / dove) — Lev 1:14
+  - Num 6:10 (ʾo, yonah)
+- **we-hiqṭir + dam-wo** (H6999 + H1818: smoke; turn into fragrance by fire / blood; juice; bloodshed) — Lev 1:15
+  - Num 18:17 (taqṭir, dama-m)
+- **ha-ʿ̲etsim + ʿ̲olah** (H6086 + H5930: tree; wood / step; holocaust) — Lev 1:17
+  - Gen 22:3 (ʿ̲atse, ʿ̲olah); Gen 22:6 (ʿ̲atse, ha-ʿ̲olah); Gen 22:7 (we-ha-ʿ̲etsim, le-ʿ̲olah); Exod 38:1 (ʿ̲atse, ha-ʿ̲olah)
+
 ## Rare words (9)
 
 - **we-shissaʿ̲** (H8156, split; tear; upbraid) — Lev 1:17; 8 verses in the Hebrew Bible

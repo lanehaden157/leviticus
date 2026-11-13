@@ -6,15 +6,21 @@ contract here.
 
 ## Components ✎
 
-*Tentative draft.* On: echo, list, digest (`book.json` `"components"`; markup in
-`components-reference.md`).
+On: echo, list, digest, story, mirror, ritual, lawparallel (`book.json`
+`"components"`; markup in `components-reference.md`).
 
 - **echo**: intertexts in both directions: Exodus 25-40 pattern, Genesis 1-3
   and Eden, Deuteronomy's reuse of the law, the prophets, the New Testament.
 - **list**: ordered rites and enumerations (animals, unions, festivals, blessings
   and curses), in the text's own order.
 - **digest**: condensed and digest units per `card-condensed.md`.
-- Handoff box kinds: none beyond the shared ones yet; add as units need them.
+- **story**: an earlier story with the same shape, when it is told (a type-scene
+  that is only a pattern is a meta entry).
+- **mirror**: the Exodus or Deuteronomy twin, only for a pair the unit pack's
+  mirror section gives.
+- **ritual**: a rite's steps placed on the tabernacle map.
+- **lawparallel**: a law restated elsewhere in the Torah (`laws.json`).
+- No other box kinds: a non-law parallel is an echo or a footnote.
 
 ## Hebrew in English ✎
 
