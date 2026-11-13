@@ -1,6 +1,51 @@
 {
   "_note": "Tracked-thread id sets: policy, same as threads.json. declined{} records candidates deliberately kept local, with why and date, so they aren't re-argued.",
   "version": 1,
-  "roots": {},
+  "roots": {
+    "aroma-of-rest": {
+      "ids": [
+        "7381",
+        "5207"
+      ],
+      "note": "A fixed refrain with a Genesis root."
+    },
+    "bring-near": {
+      "ids": [
+        "7126",
+        "7133"
+      ],
+      "note": "The book's verb of access; it names the qorban, the brought near offering."
+    },
+    "cover": {
+      "ids": [
+        "3722"
+      ],
+      "note": "The book's central act, from the first chapter to the Day of Coverings."
+    },
+    "fire-offering": {
+      "ids": [
+        "801"
+      ],
+      "note": "The book's standard word for what reaches the altar."
+    },
+    "going-up-offering": {
+      "ids": [
+        "5930"
+      ],
+      "note": "The offering the book keeps returning to: ordinary, ordination, eighth day, Day of Coverings."
+    },
+    "lean-the-hand": {
+      "ids": [
+        "5564"
+      ],
+      "note": "Returns at the blasphemer in the book's last narrative."
+    },
+    "turn-into-smoke": {
+      "ids": [
+        "6999"
+      ],
+      "note": "A distinct altar verb across the offering and priestly narratives."
+    }
+  },
   "declined": {}
 }
