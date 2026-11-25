@@ -5,7 +5,7 @@ out/
 project-side/sync-state.json
 
 # Copyrighted commentaries and their text conversions: local only, never pushed
-sources/
+/sources/
 
 # studio: LXX corpus (`python -m biblecore fetch`), per-unit source cuts (`tools/kit.py parts|extra`)
 corpus/lxx/
