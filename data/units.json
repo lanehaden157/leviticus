@@ -149,62 +149,65 @@
       "part": 1,
       "tier": "full",
       "built": true,
-      "digest": "Yahweh calls Moshe from the Tent he cannot enter and gives the first instruction: how anyone in Yisrael brings near a going up offering. A whole male from the herd or the flock, or a bird: the offerer leans a hand, slaughters, skins and washes; the priests dash the blood and turn it all into smoke, an aroma of rest to Yahweh. The offerings that follow refer back to this model.",
+      "digest": "Yahweh calls Moshe from the Tent he cannot enter and gives the first instruction, to all Yisrael: how anyone brings near a going up offering. A whole male from the herd or the flock, or a bird; the offerer leans a hand, slaughters, skins and washes it, and the priests dash the blood and turn all of it into smoke, an aroma of rest to Yahweh. The offerings after this one refer back to this model.",
       "roots": {
         "meeting": {
           "color": "#b1481f",
           "translit": "moʿed",
           "gloss": "meeting; a set time or place for meeting",
-          "example": "from the Tent of Meeting",
-          "echo": "Lev 23:2 — the same word, plural, names the meeting times: the Tent and the calendar share one root"
+          "example": "the Tent of Meeting",
+          "echo": "Lev 23:2 — the same word, in the plural, names the set times: the Tent and the calendar share one word"
         },
         "whole": {
           "color": "#8c6d1f",
           "translit": "tamim",
           "gloss": "whole, complete, without defect",
-          "example": "a whole male he shall bring near",
-          "echo": "Gen 6:9; 17:1 — the same word describes Noaḥ, and what Avraham is told to be before Yahweh"
+          "example": "a whole male he shall bring near"
         },
         "acceptance": {
           "color": "#55642f",
           "translit": "ratsah",
-          "gloss": "accept, take pleasure in; acceptance",
-          "example": "for his acceptance before Yahweh",
-          "echo": "Mal 1:8–10 — a governor would not accept blind or lame animals; neither will Yahweh accept them"
+          "gloss": "accept, be pleased with; acceptance",
+          "example": "for his acceptance before Yahweh"
         },
         "dash": {
           "color": "#3d6b4a",
           "translit": "zaraq",
-          "gloss": "dash, throw (a liquid) in a mass",
+          "gloss": "throw a liquid in a mass",
           "example": "dash the blood against the altar all around"
         },
         "cut-up": {
           "color": "#7a3f5c",
           "translit": "nittaḥ",
-          "gloss": "cut up limb by limb; the pieces",
+          "gloss": "cut limb from limb; the pieces",
           "example": "cut it up into its pieces"
         },
         "fatty-pieces": {
           "color": "#1f6e7a",
           "translit": "peder",
-          "gloss": "fatty pieces, the hard fat",
-          "example": "the head and the fatty pieces",
-          "echo": "Lev 8:20 — the ordination ram's head, pieces and fatty pieces go up in smoke the same way"
+          "gloss": "the hard fat of an animal",
+          "example": "the head and the fatty pieces"
         },
         "legs": {
           "color": "#9c5a1e",
           "translit": "keraʿ",
           "gloss": "leg, lower leg",
-          "example": "its entrails and its legs he shall wash"
+          "example": "its entrails and its legs"
         },
-        "tail-end": {
-          "color": "#8a2f3a",
+        "pinch-off": {
+          "color": "#a24860",
+          "translit": "malaq",
+          "gloss": "nip a bird's head from its neck with the nail",
+          "example": "pinch off its head"
+        },
+        "crop": {
+          "color": "#716889",
           "translit": "murʾah",
-          "gloss": "a bird's tail end (disputed; others read crop)",
-          "example": "remove its tail end with its feathers"
+          "gloss": "a bird's crop (disputed)",
+          "example": "remove its crop with its feathers"
         }
       },
-      "contract": "0.37.1"
+      "contract": "0.38.1"
     },
     {
       "n": 2,

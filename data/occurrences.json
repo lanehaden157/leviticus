@@ -15,7 +15,7 @@
         },
         {
           "v": 4,
-          "pre": "…d on the head of the going up offering, and it will be ",
+          "pre": "…on the head of the going up offering, and it shall be ",
           "hit": "accepted",
           "post": " for him, to cover for him.…"
         }
@@ -70,7 +70,7 @@
       "total": 6
     },
     "bring-near": {
-      "count": 17,
+      "count": 15,
       "verses": [
         2,
         3,
@@ -83,27 +83,27 @@
       "hits": [
         {
           "v": 2,
-          "pre": "…f Yisrael and say to them: When any person among y'all ",
+          "pre": "…the sons of Yisrael and say to them: A person, when he ",
           "hit": "brings near",
-          "post": " a brought near offering to Yahweh, from the beasts, fr…"
+          "post": " from among y'all a brought near offering to Yahweh: fr…"
         },
         {
           "v": 2,
-          "pre": "…say to them: When any person among y'all brings near a ",
+          "pre": "…them: A person, when he brings near from among y'all a ",
           "hit": "brought near offering",
-          "post": " to Yahweh, from the beasts, from the herd or from the…"
+          "post": " to Yahweh: from the animals, from the herd and from th…"
         },
         {
           "v": 2,
-          "pre": "…e beasts, from the herd or from the flock, y'all shall ",
+          "pre": "…animals, from the herd and from the flock, y'all shall ",
           "hit": "bring near",
           "post": " y'all's brought near offering.…"
         },
         {
           "v": 2,
-          "pre": "…say to them: When any person among y'all brings near a ",
+          "pre": "…them: A person, when he brings near from among y'all a ",
           "hit": "brought near offering",
-          "post": " to Yahweh, from the beasts, from the herd or from the…"
+          "post": " to Yahweh: from the animals, from the herd and from th…"
         },
         {
           "v": 3,
@@ -119,19 +119,13 @@
         },
         {
           "v": 3,
-          "pre": "…going up offering from the herd, a whole male he shall ",
-          "hit": "bring",
-          "post": " near; to the entrance of the Tent of Meeting he shall…"
-        },
-        {
-          "v": 3,
-          "pre": "…If his brought ",
-          "hit": "near",
-          "post": " offering is a going up offering from the herd, a whole…"
+          "pre": "…near; to the entrance of the Tent of Meeting he shall ",
+          "hit": "bring it near",
+          "post": ", for his acceptance before Yahweh.…"
         },
         {
           "v": 5,
-          "pre": "…d before Yahweh, and Aharon's sons, the priests, shall ",
+          "pre": "…d before Yahweh; and Aharon's sons, the priests, shall ",
           "hit": "bring near",
           "post": " the blood and dash the blood against the altar all aro…"
         },
@@ -139,19 +133,19 @@
           "v": 10,
           "pre": "…And if his ",
           "hit": "brought near offering",
-          "post": " is from the flock, from the sheep or from the goats, f…"
+          "post": " is from the flock, from the young sheep or from the go…"
         },
         {
           "v": 10,
           "pre": "…goats, for a going up offering, a whole male he shall ",
-          "hit": "bring near",
+          "hit": "bring it near",
           "post": ".…"
         },
         {
           "v": 13,
-          "pre": "…the legs he shall wash in water, and the priest shall ",
-          "hit": "bring near",
-          "post": " all of it and turn it into smoke on the altar: it is a…"
+          "pre": "…the legs he shall wash in water; and the priest shall ",
+          "hit": "bring all of it near",
+          "post": " and turn it into smoke on the altar: it is a going up…"
         },
         {
           "v": 14,
@@ -174,17 +168,11 @@
         {
           "v": 15,
           "pre": "…And the priest shall ",
-          "hit": "bring",
-          "post": " it near to the altar, and pinch off its head and turn…"
-        },
-        {
-          "v": 15,
-          "pre": "…And the priest shall bring it ",
-          "hit": "near",
+          "hit": "bring it near",
           "post": " to the altar, and pinch off its head and turn it into…"
         }
       ],
-      "total": 17
+      "total": 15
     },
     "cover": {
       "count": 1,
@@ -194,9 +182,24 @@
       "hits": [
         {
           "v": 4,
-          "pre": "…going up offering, and it will be accepted for him, to ",
+          "pre": "…oing up offering, and it shall be accepted for him, to ",
           "hit": "cover",
           "post": " for him.…"
+        }
+      ],
+      "total": 1
+    },
+    "crop": {
+      "count": 1,
+      "verses": [
+        16
+      ],
+      "hits": [
+        {
+          "v": 16,
+          "pre": "…And he shall remove its ",
+          "hit": "crop",
+          "post": " with its feathers and throw it beside the altar, eastw…"
         }
       ],
       "total": 1
@@ -269,7 +272,7 @@
         },
         {
           "v": 11,
-          "pre": "…d before Yahweh, and Aharon's sons, the priests, shall ",
+          "pre": "…, before Yahweh; and Aharon's sons, the priests, shall ",
           "hit": "dash",
           "post": " its blood against the altar all around.…"
         }
@@ -350,7 +353,7 @@
           "v": 4,
           "pre": "…And he shall lean his hand on the head of the ",
           "hit": "going up offering",
-          "post": ", and it will be accepted for him, to cover for him.…"
+          "post": ", and it shall be accepted for him, to cover for him.…"
         },
         {
           "v": 6,
@@ -366,13 +369,13 @@
         },
         {
           "v": 10,
-          "pre": "…rom the flock, from the sheep or from the goats, for a ",
+          "pre": "…e flock, from the young sheep or from the goats, for a ",
           "hit": "going up offering",
-          "post": ", a whole male he shall bring near.…"
+          "post": ", a whole male he shall bring it near.…"
         },
         {
           "v": 13,
-          "pre": "…all of it and turn it into smoke on the altar: it is a ",
+          "pre": "…f it near and turn it into smoke on the altar: it is a ",
           "hit": "going up offering",
           "post": ", a fire offering, an aroma of rest to Yahweh.…"
         },
@@ -417,13 +420,13 @@
           "v": 9,
           "pre": "…And its entrails and its ",
           "hit": "legs",
-          "post": " he shall wash in water, and the priest shall turn all…"
+          "post": " he shall wash in water; and the priest shall turn all…"
         },
         {
           "v": 13,
           "pre": "…And the entrails and the ",
           "hit": "legs",
-          "post": " he shall wash in water, and the priest shall bring nea…"
+          "post": " he shall wash in water; and the priest shall bring all…"
         }
       ],
       "total": 2
@@ -457,23 +460,23 @@
       ],
       "total": 3
     },
-    "tail-end": {
+    "pinch-off": {
       "count": 1,
       "verses": [
-        16
+        15
       ],
       "hits": [
         {
-          "v": 16,
-          "pre": "…And he shall remove its ",
-          "hit": "tail end",
-          "post": " with its feathers and throw it beside the altar, eastw…"
+          "v": 15,
+          "pre": "…And the priest shall bring it near to the altar, and ",
+          "hit": "pinch off",
+          "post": " its head and turn it into smoke on the altar; and its…"
         }
       ],
       "total": 1
     },
     "turn-into-smoke": {
-      "count": 8,
+      "count": 4,
       "verses": [
         9,
         13,
@@ -483,54 +486,30 @@
       "hits": [
         {
           "v": 9,
-          "pre": "…its legs he shall wash in water, and the priest shall ",
-          "hit": "turn",
-          "post": " all of it into smoke on the altar: a going up offering…"
-        },
-        {
-          "v": 9,
-          "pre": "…all wash in water, and the priest shall turn all of it ",
-          "hit": "into smoke",
+          "pre": "…its legs he shall wash in water; and the priest shall ",
+          "hit": "turn all of it into smoke",
           "post": " on the altar: a going up offering, a fire offering, an…"
         },
         {
           "v": 13,
-          "pre": "…n water, and the priest shall bring near all of it and ",
-          "hit": "turn",
-          "post": " it into smoke on the altar: it is a going up offering,…"
-        },
-        {
-          "v": 13,
-          "pre": "…and the priest shall bring near all of it and turn it ",
-          "hit": "into smoke",
+          "pre": "…n water; and the priest shall bring all of it near and ",
+          "hit": "turn it into smoke",
           "post": " on the altar: it is a going up offering, a fire offeri…"
         },
         {
           "v": 15,
           "pre": "…bring it near to the altar, and pinch off its head and ",
-          "hit": "turn",
-          "post": " it into smoke on the altar, and its blood shall be dra…"
-        },
-        {
-          "v": 15,
-          "pre": "…near to the altar, and pinch off its head and turn it ",
-          "hit": "into smoke",
-          "post": " on the altar, and its blood shall be drained out again…"
+          "hit": "turn it into smoke",
+          "post": " on the altar; and its blood shall be drained out again…"
         },
         {
           "v": 17,
-          "pre": "…by its wings without severing it, and the priest shall ",
-          "hit": "turn",
-          "post": " it into smoke on the altar, on the wood that is on the…"
-        },
-        {
-          "v": 17,
-          "pre": "…ings without severing it, and the priest shall turn it ",
-          "hit": "into smoke",
+          "pre": "…its wings; he shall not sever it. And the priest shall ",
+          "hit": "turn it into smoke",
           "post": " on the altar, on the wood that is on the fire: it is a…"
         }
       ],
-      "total": 8
+      "total": 4
     },
     "whole": {
       "count": 2,
@@ -547,9 +526,9 @@
         },
         {
           "v": 10,
-          "pre": "…he sheep or from the goats, for a going up offering, a ",
+          "pre": "…ng sheep or from the goats, for a going up offering, a ",
           "hit": "whole",
-          "post": " male he shall bring near.…"
+          "post": " male he shall bring it near.…"
         }
       ],
       "total": 2
