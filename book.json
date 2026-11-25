@@ -35,15 +35,15 @@
   "checks": {
     "opens_note_required": true
   },
-  "sync": {
-    "extra": [
-      "research/milgrom-transliteration-key.md",
-      "research/figures-*.md"
-    ],
-    "skip": []
-  },
   "hub": "https://lanehaden157.github.io/bible/",
-  "core": "0.37.1",
+  "core": "0.38.0",
   "template": "6918912",
-  "tiers": true
+  "tiers": true,
+  "studio": {
+    "whole": [
+      "milgrom",
+      "constable"
+    ],
+    "lxx_numbering": "hebrew"
+  }
 }

@@ -1,15 +1,29 @@
-# Leviticus lens
+# Lens
 
-How to look at the passage. Every card says to read this first.
+## Reader
 
-Intertextuality first. What earlier Scripture stands behind a line, where line or word returns later in the canon (New Testament included), what the echo does. Then narrative structure, keywords, type-scenes, the creation–covenant–exile–presence story. No symmetry the text doesn't show. Plausible but thin link → bring to Lane marked tentative, don't drop. Medieval commentators and fine grammar = one voice among several.
+Lane, English. Little Hebrew: translit + gloss every Hebrew word, again at first use per unit. Never native script, any file. Grammar that matters (stem, aspect, a cognate accusative) → plain words.
 
-## This book
+## Look for, by weight
 
-*Tentative draft: unchecked against the commentaries; Lane's chat revises it.*
+1. Intertext: Exodus 25-40 and Genesis 1-3 behind a line; Numbers and Deuteronomy restating it; the prophets and the NT reading it (Hebrews above all). What the echo does.
+2. The book's own seams: speech formulas (who speaks to whom, who must act), "this is the instruction of ..." subscripts, "I am Yahweh" and "be holy" refrains, Masoretic breaks.
+3. Ritual as prescribed: order of acts, actor (offerer, priest, high priest), zone (outside the camp, camp, court, holy place, most holy place).
+4. Narrative islands (8-10, 24:10-23) as story and as commentary on the law around them.
+5. Structure (chiasm, panels) only if real and checkable. Weigh hard.
 
-- **Speech from the Tent.** Almost all of it is Yahweh speaking to Moshe "from the Tent of Meeting" (1:1), to be passed on to Israel, to Aharon, or to the priests. Track who speaks, to whom, and who must act. The speech formulas and "this is the instruction of ..." subscripts (7:37, 11:46, 12:7, 13:59, 14:54, 15:32) are the book's own seams.
-- **Ritual prescription.** Read the order of the acts, who does each (offerer, priest, high priest), and where it happens. Don't import a theory of sacrifice; say what the verses do, then what scholars infer, marked as inference. Actions the text doesn't give a reason for stay unexplained.
-- **Holiness collection (17-26).** Ethics and ritual sit together, and "I am Yahweh" and "be holy" return as refrains. Watch what the refrain is attached to, and the move from priestly rules to rules for all Israel. Whether it is one composition is a scholars' question: note it, don't settle it.
-- **Narrative islands: 8-10, 24:10-23.** Short narrative inside the speech. Read as story (scenes, obedience formulas, the fire from Yahweh) and as commentary on the surrounding law. Ask why this story sits here and what it shows the law doing.
-- **Cautions.** Tabernacle space is graded (outside the camp, camp, court, holy place, most holy place); name the zone. Pattern across legal cases is plausible, so mark it tentative unless the text shows it. Later Jewish and Christian use of a rite is a reception, not the meaning in Leviticus. The Hebrew and English verse numbers differ at 6:1-30 (`leviticus-versification.md`); cite English.
+## Do
+
+- Milgrom = baseline, in dialogue with Morales, the medieval Jewish commentators (Rashi, Ramban, Ibn Ezra, Sforno), Constable, the older Christian commentaries (Keil & Delitzsch, Ellicott, Pulpit, Henry), the LXX and the Fathers where there's a free text. Say where they split and why.
+- Name what rests on Milgrom's theory (the ḥaṭṭaʾt purges the sanctuary) or his P/H division rather than on the text.
+- Say what the verses do first, then what scholars infer, marked as inference. A rite the text gives no reason for stays unexplained.
+- Thin but plausible → keep, tentative, say why. Drop only what the text won't bear.
+- Later Jewish and Christian use of a rite is reception, not the meaning in Leviticus: tell it as reception.
+
+## Don't
+
+- Quote marks on wording not read this unit.
+- Recall ids, rulings, renderings: copy from `work/NN/pack.md`.
+- Long quotes from Milgrom, Morales, JPS: paraphrase.
+- Trust Milgrom's transliteration as printed (OCR-damaged): check with `kit.py words` or `research/milgrom-transliteration-key.md`.
+- Open whole-book files in `sources/`: use `python tools/kit.py`.

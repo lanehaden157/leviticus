@@ -13,7 +13,7 @@ On: echo, list, digest, story, mirror, ritual, lawparallel (`book.json`
   and Eden, Deuteronomy's reuse of the law, the prophets, the New Testament.
 - **list**: ordered rites and enumerations (animals, unions, festivals, blessings
   and curses), in the text's own order.
-- **digest**: condensed and digest units per `card-condensed.md`.
+- **digest**: condensed and digest units (builder agent, tier step).
 - **story**: an earlier story with the same shape, when it is told (a type-scene
   that is only a pattern is a meta entry).
 - **mirror**: the Exodus or Deuteronomy twin, only for a pair the unit pack's
@@ -51,7 +51,7 @@ number; suffixed id (`2416e`) claims exactly one.
 
 ## Unit map ✎
 
-From the project side as `leviticus-literary-unit-map.md`.
+`leviticus-literary-unit-map.md`.
 `python -m biblecore units-from-map` loads its **Overview** table; keep this
 shape:
 
