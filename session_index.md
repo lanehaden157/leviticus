@@ -13,3 +13,4 @@ Read this first. Standing state, then the last three sessions, one line each. Ol
 - 2026-11-25: core 0.38.4 vendored; Constable moved from whole to voices (read by key verses like the Jewish commentators); `kit.py keyverses N` suggests them.
 - 2026-11-25: unit 2 (Lev 2:1-16) built, condensed tier; promoted gift-offering (minhah) and reminder-portion ('azkarah); echoes on digested verses went to notes (asides must follow a written verse); pushed.
 - 2026-11-25: unit 3 (Lev 3:1-17) built, condensed tier; promoted fat (ḥeleb) and well-being-offering (shelamim); pushed.
+- 2026-11-25: unit 4 (Lev 4:1-5:13) built, condensed tier; no promotions (sin/guilt kept local); 5:6-7 ʾasham-wo 'penalty'; pushed.
