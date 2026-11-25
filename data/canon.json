@@ -328,6 +328,62 @@
       "unit": 1,
       "note": "",
       "source": "echo"
+    },
+    {
+      "from": "Lev 2:1",
+      "to": "Mal 1:11",
+      "kind": "echo",
+      "unit": 2,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 2:2",
+      "to": "Lev 5:11–13",
+      "kind": "echo",
+      "unit": 2,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 2:2",
+      "to": "Num 5:15–26",
+      "kind": "echo",
+      "unit": 2,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 2:3",
+      "to": "Lev 10:12–13",
+      "kind": "echo",
+      "unit": 2,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 2:3",
+      "to": "Lev 6:14–18",
+      "kind": "echo",
+      "unit": 2,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 2:13",
+      "to": "Exod 30:35",
+      "kind": "echo",
+      "unit": 2,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 2:13",
+      "to": "Num 18:19",
+      "kind": "echo",
+      "unit": 2,
+      "note": "",
+      "source": "echo"
     }
   ],
   "typescenes": [

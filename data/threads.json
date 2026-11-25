@@ -113,6 +113,38 @@
       "payoffs": [],
       "note": "A distinct altar verb across the offering and priestly narratives.",
       "color": "#945042"
+    },
+    {
+      "id": "gift-offering",
+      "root": "gift-offering",
+      "translit": "minḥah",
+      "gloss": "gift offering",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 2,
+        "ref": "2:1",
+        "note": "minḥah, the book's own word for the grain gift: fine flour with oil and frankincense (2:1). Elsewhere the word is wider, any gift, as Gen 4:3."
+      },
+      "payoffs": [],
+      "note": "Rendered \"gift offering\" so that the wider sense of a gift stays in view; Lev 2 says what this one is made of.",
+      "color": "#8a2f3a"
+    },
+    {
+      "id": "reminder-portion",
+      "root": "reminder-portion",
+      "translit": "ʾazkarah",
+      "gloss": "reminder portion",
+      "status": "open",
+      "tagged": true,
+      "opens": {
+        "unit": 2,
+        "ref": "2:2",
+        "note": "ʾazkarah, from zakhar \"remember\": the handful the priest turns into smoke from the gift offering (2:2, 9, 16). Why it is called this is argued."
+      },
+      "payoffs": [],
+      "note": "A rare word tied to the handful: Lev 2:2, 9, 16; Num 5:26; Lev 6:15; 24:7.",
+      "color": "#00807c"
     }
   ]
 }

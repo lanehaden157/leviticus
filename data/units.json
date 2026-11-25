@@ -213,12 +213,47 @@
       "n": 2,
       "slug": "unit-02",
       "passage": "Leviticus 2:1–16",
-      "title": "The grain offering",
+      "title": "The gift offering",
       "section": 1,
       "part": 1,
       "tier": "condensed",
-      "built": false,
-      "digest": "The grain offering is fine flour with oil and frankincense, raw or baked. The priest burns a token handful on the altar, and the rest belongs to Aharon and his sons as most holy. No leaven or honey goes on the altar, and every offering is salted with the salt of the covenant."
+      "built": true,
+      "digest": "A person may bring Yahweh a gift offering of grain: fine flour with oil and frankincense, raw or baked on the oven, griddle or pan. A priest takes a handful with all the frankincense and turns it into smoke as the reminder portion; the remainder is Aharon's and his sons', most holy. No leaven or honey goes up in smoke, every gift is salted with the salt of the covenant, and first-ripe grain has its own form.",
+      "roots": {
+        "fine-flour": {
+          "color": "#b1481f",
+          "translit": "solet",
+          "gloss": "the finest wheat flour",
+          "example": "fine flour shall be his brought near offering"
+        },
+        "handful": {
+          "color": "#8c6d1f",
+          "translit": "qamats",
+          "gloss": "scoop out a handful; the handful",
+          "example": "scoop out from there his handful"
+        },
+        "salt": {
+          "color": "#55642f",
+          "translit": "melaḥ",
+          "gloss": "salt; to season with salt",
+          "example": "you shall salt with salt",
+          "echo": "Num 18:19 — the salt of the covenant again, for the priests' portions; Exod 30:35 — the holy incense, salted with the same rare verb"
+        },
+        "leaven": {
+          "color": "#3d6b4a",
+          "translit": "śeʾor",
+          "gloss": "leaven, the sour dough that makes bread rise",
+          "example": "no leaven",
+          "echo": "Exod 12:15; 13:7 — the other place this word and the word for leavened bread sit side by side: what Yisrael must remove from its houses"
+        },
+        "first-processed": {
+          "color": "#7a3f5c",
+          "translit": "reʾshit",
+          "gloss": "first; the first part taken from a harvest, here in processed form",
+          "example": "as a first-processed brought near offering"
+        }
+      },
+      "contract": "0.38.4"
     },
     {
       "n": 3,
