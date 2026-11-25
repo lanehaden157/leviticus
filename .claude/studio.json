@@ -1,10 +1,12 @@
 {
- ".claude/agents/builder.md": "e13535d4f898b939f8584f083ab82621a6180947",
- ".claude/agents/fact-checker.md": "202352c3e42c5a5aa73e7b6bbdb9e3e6f2f50c52",
- ".claude/skills/finish/SKILL.md": "e5b5cb54c5a045d2704b9aca92f299537a6fa1b3",
- ".claude/skills/unit/SKILL.md": "a1fa0229ef476035012fdead69eb6fab0f3172c9",
- "tools/kit.py": "9663e012b921d9678541f4df4657e64d7fce6843",
+ ".claude/agents/builder.md": "4a9244d3f473e141d66963169870d5dc0e421d15",
+ ".claude/agents/fact-checker.md": "69ae5eab3d2015b8594007b9ed97750962e82f83",
+ ".claude/skills/build/SKILL.md": "77ee779b7b1b696be5a8aa7dc28fb4f108294b32",
+ ".claude/skills/finish/SKILL.md": "97c999c170b43d4c5ff90af38fa931b2e3b24e84",
+ ".claude/skills/unit/SKILL.md": "8e621b15b73f90d06ba799b1cdb28b2b1bffe93d",
+ "tools/kit.py": "008391a5d76b1849d3abc2786bf7931725d9b461",
  "tools/lessons.py": "63a79db38313d9f156f0b87d5f7f3a74e109f178",
+ "tools/lint_study.py": "6b5c282b669c597515a84b66a9b4073ac9a69ae9",
  "tools/make_listen.py": "9070865af2e8c08d72717b53d6334c92523080d5",
  "tools/split_sources.py": "509afc6e94f43adfe2065193fb40aa4b899cd4b2",
  "tools/unit_status.py": "21e08d8eb7aafaf163cffa0573ae10535219d2e1"

@@ -36,14 +36,25 @@
     "opens_note_required": true
   },
   "hub": "https://lanehaden157.github.io/bible/",
-  "core": "0.38.2",
+  "core": "0.38.3",
   "template": "6918912",
   "tiers": true,
   "studio": {
     "whole": [
+      "morales",
       "milgrom",
       "constable"
     ],
-    "lxx_numbering": "hebrew"
+    "lxx_numbering": "hebrew",
+    "voices": [
+      "rashi",
+      "ramban",
+      "ibn-ezra",
+      "sforno",
+      "rashbam",
+      "or-hachaim",
+      "rabbeinu-bahya",
+      "tur-harokh"
+    ]
   }
 }
