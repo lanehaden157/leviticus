@@ -4,6 +4,7 @@
 
 - `/unit N` or `/finish`; `fact-checker`, `builder` agents. Core's files (`biblecore/studio`); this file wins.
 - Lens `lens.md`. Sources `resources.md`, read via `python tools/kit.py`. New source → `sources/marked/<key>.txt`, `python tools/split_sources.py`.
+- Mistakes: `python tools/lessons.py known` before a unit; fact-checker and builder log kinds to it.
 - Status `python tools/unit_status.py`. Other commands: `python -m biblecore`.
 
 ## Strong suggestions

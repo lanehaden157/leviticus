@@ -11,3 +11,4 @@ Read this first. Standing state, then the last three sessions, one line each. Ol
 - 2026-11-13: unit 1 ported (7 threads promoted, aec kept as aside.echo); source artifact needed hand fixes (opens shape, data-w on split spans); not committed.
 - 2026-11-25: unit 1 (Lev 1:1-17) rebuilt on the new flow, full tier, no promotions; pushed.
 - 2026-11-25: v2 setup (Opus planning, Sonnet sessions): 20 sources converted and indexed (Milgrom x3, Morales x2, Constable, 8 Sefaria commentators, K&D, Ellicott, Pulpit, Henry, JPS, Tyndale; no free Origen); prompts rewritten; unit 1 piloted.
+- 2026-11-25: core 0.38.2 vendored: lessons loop (`tools/lessons.py`, `lessons.jsonl`: fact-checker and builder log mistake kinds, `/finish` reports recurring ones); pilot fixes to unit-pack, checks, agents.
