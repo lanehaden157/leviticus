@@ -291,12 +291,51 @@
       "n": 4,
       "slug": "unit-04",
       "passage": "Leviticus 4:1–5:13",
-      "title": "Purification for unwitting wrong",
+      "title": "The sin offering",
       "section": 1,
       "part": 1,
       "tier": "condensed",
-      "built": false,
-      "digest": "When someone sins without meaning to, a sin offering is due, graded by who sinned: the anointed priest, the whole community, a leader, or an ordinary person. Its blood goes further in the more serious cases, as far as the veil. Then come cases of withheld testimony, unnoticed impurity and rash oaths, where the offering is scaled to what the person can afford."
+      "built": true,
+      "digest": "For wrong done unwittingly, Yahweh gives four cases by rank: the anointed priest and the whole community bring a bull and the blood goes in before the curtain; a chieftain brings a he-goat and an ordinary person a she-goat or ewe lamb, and the blood stays at the altar outside. Chapter 5 adds cases of hidden knowledge and scales the offering to means: a sheep or goat, two birds, a tenth of an ephah of flour.",
+      "roots": {
+        "sin": {
+          "color": "#b1481f",
+          "translit": "ḥaṭaʾ",
+          "gloss": "miss the mark; sin; the sin and the offering for it",
+          "example": "a sin offering to Yahweh"
+        },
+        "guilt": {
+          "color": "#8c6d1f",
+          "translit": "ʾasham",
+          "gloss": "guilt; be guilty; what is owed for it",
+          "example": "his penalty for his sin"
+        },
+        "unwitting": {
+          "color": "#55642f",
+          "translit": "shagah",
+          "gloss": "stray, go astray; shegagah, an error done without meaning it",
+          "example": "sins unwittingly"
+        },
+        "chieftain": {
+          "color": "#3d6b4a",
+          "translit": "nasiʾ",
+          "gloss": "a head of a clan or tribe, not a king",
+          "example": "when a chieftain sins"
+        },
+        "pinch-off": {
+          "color": "#7a3f5c",
+          "translit": "malaq",
+          "gloss": "nip a bird's head from its neck with the nail",
+          "example": "pinch off its head"
+        },
+        "handful": {
+          "color": "#1f6e7a",
+          "translit": "qemets",
+          "gloss": "the closed hand's fill, taken from the flour",
+          "example": "a handful of it"
+        }
+      },
+      "contract": "0.38.4"
     },
     {
       "n": 5,

@@ -472,6 +472,150 @@
       "unit": 3,
       "note": "",
       "source": "echo"
+    },
+    {
+      "from": "Lev 4:2",
+      "to": "Ezek 45:18–20",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 4:3",
+      "to": "Heb 5:1–3",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 4:3",
+      "to": "Heb 7:27",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 4:3",
+      "to": "Heb 9:7",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 4:6",
+      "to": "Lev 16:14–19",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 4:7",
+      "to": "Exod 29:10–14",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 4:7",
+      "to": "Lev 8:14–17",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 4:7",
+      "to": "Lev 9:8–11",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 4:12",
+      "to": "Heb 13:11–13",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 4:12",
+      "to": "Lev 10:16–20",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 4:12",
+      "to": "Lev 6:30",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 4:13",
+      "to": "Num 15:22–31",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 5:1",
+      "to": "Judg 17:2",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 5:1",
+      "to": "Prov 29:24",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 5:5",
+      "to": "Lev 16:21",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 5:5",
+      "to": "Num 5:6–7",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 5:11",
+      "to": "Num 5:15",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 5:11",
+      "to": "Num 5:26",
+      "kind": "echo",
+      "unit": 4,
+      "note": "",
+      "source": "echo"
     }
   ],
   "typescenes": [

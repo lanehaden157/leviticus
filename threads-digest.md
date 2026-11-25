@@ -6,17 +6,17 @@ Generated from `data/threads.json` (version 1). 11 threads, 11 open.
 
 | id | translit | gloss | opens | payoffs |
 |---|---|---|---|---|
-| `aroma-of-rest` | reaḥ niḥoaḥ | aroma of rest | 1 (1:9) | 3 (3:5) |
-| `bring-near` | qarav | bring near; brought near offering | 1 (1:2) | 3 (3:1) |
-| `cover` | kipper | cover | 1 (1:4) | — |
-| `fire-offering` | ʾishsheh | fire offering | 1 (1:9) | 3 (3:3) |
-| `going-up-offering` | ʿolah | going up offering | 1 (1:3) | 3 (3:5) |
-| `lean-the-hand` | samakh | lean the hand | 1 (1:4) | 3 (3:2) |
-| `turn-into-smoke` | qatar | turn into smoke | 1 (1:9) | 3 (3:5) |
-| `gift-offering` | minḥah | gift offering | 2 (2:1) | — |
-| `reminder-portion` | ʾazkarah | reminder portion | 2 (2:2) | — |
-| `fat` | ḥeleb | fat | 3 (3:3) | — |
-| `well-being-offering` | shelamim | well-being offering | 3 (3:1) | — |
+| `aroma-of-rest` | reaḥ niḥoaḥ | aroma of rest | 1 (1:9) | 3 (3:5) · 4 (4:31) |
+| `bring-near` | qarav | bring near; brought near offering | 1 (1:2) | 3 (3:1) · 4 (4:3) |
+| `cover` | kipper | cover | 1 (1:4) | 4 (4:20) |
+| `fire-offering` | ʾishsheh | fire offering | 1 (1:9) | 3 (3:3) · 4 (4:35) |
+| `going-up-offering` | ʿolah | going up offering | 1 (1:3) | 3 (3:5) · 4 (4:7) |
+| `lean-the-hand` | samakh | lean the hand | 1 (1:4) | 3 (3:2) · 4 (4:4) |
+| `turn-into-smoke` | qatar | turn into smoke | 1 (1:9) | 3 (3:5) · 4 (4:10) |
+| `gift-offering` | minḥah | gift offering | 2 (2:1) | 4 (5:13) |
+| `reminder-portion` | ʾazkarah | reminder portion | 2 (2:2) | 4 (5:12) |
+| `fat` | ḥeleb | fat | 3 (3:3) | 4 (4:8) |
+| `well-being-offering` | shelamim | well-being offering | 3 (3:1) | 4 (4:10) |
 
 ## Notes per thread
 

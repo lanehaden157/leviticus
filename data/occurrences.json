@@ -1187,5 +1187,616 @@
         ]
       }
     }
+  },
+  "unit-04": {
+    "aroma-of-rest": {
+      "count": 2,
+      "verses": [
+        31
+      ],
+      "hits": [
+        {
+          "v": 31,
+          "pre": "…the priest shall turn it into smoke on the altar as an ",
+          "hit": "aroma",
+          "post": " of rest to Yahweh; and the priest shall cover for him,…"
+        },
+        {
+          "v": 31,
+          "pre": "…t shall turn it into smoke on the altar as an aroma of ",
+          "hit": "rest",
+          "post": " to Yahweh; and the priest shall cover for him, and it…"
+        }
+      ],
+      "total": 2
+    },
+    "bring-near": {
+      "count": 2,
+      "verses": [
+        3,
+        11
+      ],
+      "hits": [
+        {
+          "v": 3,
+          "pre": "…riest sins so that guilt falls on the people, he shall ",
+          "hit": "bring near",
+          "post": ", for his sin that he has sinned, a young bull of the h…"
+        },
+        {
+          "v": 11,
+          "pre": "…urtledoves or two young pigeons, he shall bring as his ",
+          "hit": "brought near offering",
+          "post": ", for that in which he has sinned, a tenth of an ephah…"
+        }
+      ],
+      "total": 7,
+      "untr": {
+        "count": 5,
+        "verses": [
+          "4:14",
+          "4:23",
+          "4:28",
+          "4:32",
+          "5:8"
+        ]
+      }
+    },
+    "chieftain": {
+      "count": 1,
+      "verses": [
+        22
+      ],
+      "hits": [
+        {
+          "v": 22,
+          "pre": "…“When a ",
+          "hit": "chieftain",
+          "post": " sins, and does unwittingly one of all the commands of…"
+        }
+      ],
+      "total": 1
+    },
+    "cover": {
+      "count": 5,
+      "verses": [
+        6,
+        13,
+        20,
+        26,
+        31
+      ],
+      "hits": [
+        {
+          "v": 20,
+          "pre": "…ring, so he shall do to this one; and the priest shall ",
+          "hit": "cover",
+          "post": " for them, and it shall be forgiven them.…"
+        },
+        {
+          "v": 26,
+          "pre": "…e fat of the well-being offering; and the priest shall ",
+          "hit": "cover",
+          "post": " for him from his sin, and it shall be forgiven him.…"
+        },
+        {
+          "v": 31,
+          "pre": "…ar as an aroma of rest to Yahweh; and the priest shall ",
+          "hit": "cover",
+          "post": " for him, and it shall be forgiven him.…"
+        },
+        {
+          "v": 6,
+          "pre": "…or a she-goat, as a sin offering; and the priest shall ",
+          "hit": "cover",
+          "post": " for him from his sin.…"
+        },
+        {
+          "v": 13,
+          "pre": "…And the priest shall ",
+          "hit": "cover",
+          "post": " for him over his sin that he has sinned from one of th…"
+        }
+      ],
+      "total": 7,
+      "untr": {
+        "count": 2,
+        "verses": [
+          "4:35",
+          "5:10"
+        ]
+      }
+    },
+    "fat": {
+      "count": 4,
+      "verses": [
+        26,
+        31
+      ],
+      "hits": [
+        {
+          "v": 26,
+          "pre": "…And all its ",
+          "hit": "fat",
+          "post": " he shall turn into smoke on the altar, like the fat of…"
+        },
+        {
+          "v": 26,
+          "pre": "…And all its ",
+          "hit": "fat",
+          "post": " he shall turn into smoke on the altar, like the fat of…"
+        },
+        {
+          "v": 31,
+          "pre": "…And all its ",
+          "hit": "fat",
+          "post": " he shall remove, as the fat was removed from the well-…"
+        },
+        {
+          "v": 31,
+          "pre": "…And all its ",
+          "hit": "fat",
+          "post": " he shall remove, as the fat was removed from the well-…"
+        }
+      ],
+      "total": 8,
+      "untr": {
+        "count": 7,
+        "verses": [
+          "4:8",
+          "4:9",
+          "4:19",
+          "4:35"
+        ]
+      }
+    },
+    "fire-offering": {
+      "count": 1,
+      "verses": [
+        12
+      ],
+      "hits": [
+        {
+          "v": 12,
+          "pre": "…tion, and turn it into smoke on the altar, on Yahweh's ",
+          "hit": "fire offerings",
+          "post": ": it is a sin offering.…"
+        }
+      ],
+      "total": 2,
+      "untr": {
+        "count": 1,
+        "verses": [
+          "4:35"
+        ]
+      }
+    },
+    "gift-offering": {
+      "count": 1,
+      "verses": [
+        13
+      ],
+      "hits": [
+        {
+          "v": 13,
+          "pre": "…e forgiven him; and it shall be the priest's, like the ",
+          "hit": "gift offering",
+          "post": ".”…"
+        }
+      ],
+      "total": 1
+    },
+    "going-up-offering": {
+      "count": 2,
+      "verses": [
+        7
+      ],
+      "hits": [
+        {
+          "v": 7,
+          "pre": "…lood he shall pour out at the base of the altar of the ",
+          "hit": "going up offering",
+          "post": ", which is at the entrance of the Tent of Meeting.…"
+        },
+        {
+          "v": 7,
+          "pre": "…pigeons to Yahweh, one as a sin offering and one as a ",
+          "hit": "going up offering",
+          "post": ".…"
+        }
+      ],
+      "total": 10,
+      "untr": {
+        "count": 10,
+        "verses": [
+          "4:10",
+          "4:18",
+          "4:24",
+          "4:25",
+          "4:29",
+          "4:30",
+          "4:33",
+          "4:34",
+          "5:10"
+        ]
+      }
+    },
+    "guilt": {
+      "count": 7,
+      "verses": [
+        3,
+        5,
+        6,
+        7,
+        13,
+        22,
+        27
+      ],
+      "hits": [
+        {
+          "v": 3,
+          "pre": "…if the anointed priest sins so that ",
+          "hit": "guilt",
+          "post": " falls on the people, he shall bring near, for his sin…"
+        },
+        {
+          "v": 13,
+          "pre": "…all Yahweh's commands that are not to be done, and are ",
+          "hit": "guilty",
+          "post": "—…"
+        },
+        {
+          "v": 22,
+          "pre": "…ands of Yahweh his God that are not to be done, and is ",
+          "hit": "guilty",
+          "post": "—…"
+        },
+        {
+          "v": 27,
+          "pre": "…e of Yahweh's commands that are not to be done, and is ",
+          "hit": "guilty",
+          "post": "—…"
+        },
+        {
+          "v": 5,
+          "pre": "…And it shall be, when he is ",
+          "hit": "guilty",
+          "post": " of one of these, that he shall confess that in which h…"
+        },
+        {
+          "v": 6,
+          "pre": "…and he shall bring to Yahweh his ",
+          "hit": "penalty",
+          "post": " for his sin that he has sinned: a female from the floc…"
+        },
+        {
+          "v": 7,
+          "pre": "…annot reach enough for a sheep, he shall bring, as his ",
+          "hit": "penalty",
+          "post": " for that in which he has sinned, two turtledoves or tw…"
+        }
+      ],
+      "total": 10
+    },
+    "handful": {
+      "count": 1,
+      "verses": [
+        12
+      ],
+      "hits": [
+        {
+          "v": 12,
+          "pre": "…ll bring it to the priest, and the priest shall take a ",
+          "hit": "handful",
+          "post": " of it, its full grasp, as its reminder portion, and tu…"
+        }
+      ],
+      "total": 1
+    },
+    "lean-the-hand": {
+      "count": 0,
+      "verses": [],
+      "hits": [],
+      "total": 5,
+      "untr": {
+        "count": 5,
+        "verses": [
+          "4:4",
+          "4:15",
+          "4:24",
+          "4:29",
+          "4:33"
+        ]
+      }
+    },
+    "pinch-off": {
+      "count": 0,
+      "verses": [],
+      "hits": [],
+      "total": 1
+    },
+    "reminder-portion": {
+      "count": 1,
+      "verses": [
+        12
+      ],
+      "hits": [
+        {
+          "v": 12,
+          "pre": "…est shall take a handful of it, its full grasp, as its ",
+          "hit": "reminder portion",
+          "post": ", and turn it into smoke on the altar, on Yahweh's fire…"
+        }
+      ],
+      "total": 1
+    },
+    "sin": {
+      "count": 24,
+      "verses": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        11,
+        12,
+        13,
+        20,
+        21,
+        22,
+        26,
+        27
+      ],
+      "hits": [
+        {
+          "v": 2,
+          "pre": "…“Speak to the sons of Yisrael, saying: When a person ",
+          "hit": "sins",
+          "post": " unwittingly from any of Yahweh's commands that are not…"
+        },
+        {
+          "v": 3,
+          "pre": "…if the anointed priest ",
+          "hit": "sins",
+          "post": " so that guilt falls on the people, he shall bring near…"
+        },
+        {
+          "v": 3,
+          "pre": "…if the anointed priest ",
+          "hit": "sin",
+          "post": "s so that guilt falls on the people, he shall bring nea…"
+        },
+        {
+          "v": 3,
+          "pre": "…e people, he shall bring near, for his sin that he has ",
+          "hit": "sinned",
+          "post": ", a young bull of the herd, whole, to Yahweh as a sin o…"
+        },
+        {
+          "v": 3,
+          "pre": "…inned, a young bull of the herd, whole, to Yahweh as a ",
+          "hit": "sin offering",
+          "post": ".…"
+        },
+        {
+          "v": 20,
+          "pre": "…d he shall do to the bull as he did to the bull of the ",
+          "hit": "sin offering",
+          "post": ", so he shall do to this one; and the priest shall cove…"
+        },
+        {
+          "v": 21,
+          "pre": "…amp and burn it as he burned the first bull: it is the ",
+          "hit": "sin offering",
+          "post": " of the assembly.…"
+        },
+        {
+          "v": 22,
+          "pre": "…“When a chieftain ",
+          "hit": "sins",
+          "post": ", and does unwittingly one of all the commands of Yahwe…"
+        },
+        {
+          "v": 26,
+          "pre": "…offering; and the priest shall cover for him from his ",
+          "hit": "sin",
+          "post": ", and it shall be forgiven him.…"
+        },
+        {
+          "v": 27,
+          "pre": "…“And if a person from the people of the land ",
+          "hit": "sins",
+          "post": " unwittingly by doing one of Yahweh's commands that are…"
+        },
+        {
+          "v": 1,
+          "pre": "…“And if a person ",
+          "hit": "sins",
+          "post": ", in that he hears the voice of an oath-curse, and he i…"
+        },
+        {
+          "v": 5,
+          "pre": "…e of these, that he shall confess that in which he has ",
+          "hit": "sinned",
+          "post": ",…"
+        },
+        {
+          "v": 6,
+          "pre": "…and he shall bring to Yahweh his penalty for his ",
+          "hit": "sin",
+          "post": " that he has sinned: a female from the flock, a ewe lam…"
+        },
+        {
+          "v": 6,
+          "pre": "…ll bring to Yahweh his penalty for his sin that he has ",
+          "hit": "sinned",
+          "post": ": a female from the flock, a ewe lamb or a she-goat, as…"
+        },
+        {
+          "v": 6,
+          "pre": "…female from the flock, a ewe lamb or a she-goat, as a ",
+          "hit": "sin offering",
+          "post": "; and the priest shall cover for him from his sin.…"
+        },
+        {
+          "v": 6,
+          "pre": "…and he shall bring to Yahweh his penalty for his ",
+          "hit": "sin",
+          "post": " that he has sinned: a female from the flock, a ewe lam…"
+        },
+        {
+          "v": 7,
+          "pre": "…e shall bring, as his penalty for that in which he has ",
+          "hit": "sinned",
+          "post": ", two turtledoves or two young pigeons to Yahweh, one a…"
+        },
+        {
+          "v": 7,
+          "pre": "…o turtledoves or two young pigeons to Yahweh, one as a ",
+          "hit": "sin offering",
+          "post": " and one as a going up offering.…"
+        },
+        {
+          "v": 11,
+          "pre": "…as his brought near offering, for that in which he has ",
+          "hit": "sinned",
+          "post": ", a tenth of an ephah of fine flour as a sin offering.…"
+        },
+        {
+          "v": 11,
+          "pre": "…he has sinned, a tenth of an ephah of fine flour as a ",
+          "hit": "sin offering",
+          "post": ". He shall put no oil on it and shall not give frankinc…"
+        },
+        {
+          "v": 11,
+          "pre": "…he has sinned, a tenth of an ephah of fine flour as a ",
+          "hit": "sin offering",
+          "post": ". He shall put no oil on it and shall not give frankinc…"
+        },
+        {
+          "v": 12,
+          "pre": "…moke on the altar, on Yahweh's fire offerings: it is a ",
+          "hit": "sin offering",
+          "post": ".…"
+        },
+        {
+          "v": 13,
+          "pre": "…And the priest shall cover for him over his ",
+          "hit": "sin",
+          "post": " that he has sinned from one of these, and it shall be…"
+        },
+        {
+          "v": 13,
+          "pre": "…he priest shall cover for him over his sin that he has ",
+          "hit": "sinned",
+          "post": " from one of these, and it shall be forgiven him; and i…"
+        }
+      ],
+      "total": 40
+    },
+    "turn-into-smoke": {
+      "count": 3,
+      "verses": [
+        12,
+        26,
+        31
+      ],
+      "hits": [
+        {
+          "v": 26,
+          "pre": "…And all its fat he shall ",
+          "hit": "turn into smoke",
+          "post": " on the altar, like the fat of the well-being offering;…"
+        },
+        {
+          "v": 31,
+          "pre": "…ved from the well-being offering, and the priest shall ",
+          "hit": "turn it into smoke",
+          "post": " on the altar as an aroma of rest to Yahweh; and the pr…"
+        },
+        {
+          "v": 12,
+          "pre": "…ul of it, its full grasp, as its reminder portion, and ",
+          "hit": "turn it into smoke",
+          "post": " on the altar, on Yahweh's fire offerings: it is a sin…"
+        }
+      ],
+      "total": 6,
+      "untr": {
+        "count": 3,
+        "verses": [
+          "4:10",
+          "4:19",
+          "4:35"
+        ]
+      }
+    },
+    "unwitting": {
+      "count": 4,
+      "verses": [
+        2,
+        13,
+        22,
+        27
+      ],
+      "hits": [
+        {
+          "v": 2,
+          "pre": "…eak to the sons of Yisrael, saying: When a person sins ",
+          "hit": "unwittingly",
+          "post": " from any of Yahweh's commands that are not to be done,…"
+        },
+        {
+          "v": 13,
+          "pre": "…“And if all the community of Yisrael ",
+          "hit": "strays",
+          "post": ", and the matter is hidden from the eyes of the assembl…"
+        },
+        {
+          "v": 22,
+          "pre": "…“When a chieftain sins, and does ",
+          "hit": "unwittingly",
+          "post": " one of all the commands of Yahweh his God that are not…"
+        },
+        {
+          "v": 27,
+          "pre": "…“And if a person from the people of the land sins ",
+          "hit": "unwittingly",
+          "post": " by doing one of Yahweh's commands that are not to be d…"
+        }
+      ],
+      "total": 4
+    },
+    "well-being-offering": {
+      "count": 2,
+      "verses": [
+        26,
+        31
+      ],
+      "hits": [
+        {
+          "v": 26,
+          "pre": "…hall turn into smoke on the altar, like the fat of the ",
+          "hit": "well-being offering",
+          "post": "; and the priest shall cover for him from his sin, and…"
+        },
+        {
+          "v": 31,
+          "pre": "…s fat he shall remove, as the fat was removed from the ",
+          "hit": "well-being offering",
+          "post": ", and the priest shall turn it into smoke on the altar…"
+        }
+      ],
+      "total": 4,
+      "untr": {
+        "count": 2,
+        "verses": [
+          "4:10",
+          "4:35"
+        ]
+      }
+    }
   }
 }

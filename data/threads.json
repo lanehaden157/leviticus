@@ -19,6 +19,11 @@
           "unit": 3,
           "ref": "3:5",
           "note": "The going up offering is already burning on the altar when the fat is laid on it."
+        },
+        {
+          "unit": 4,
+          "ref": "4:7",
+          "note": "The altar of the going up offering is the landmark: where the blood is poured (4:7, 18, 25, 30, 34) and where the animal is slaughtered (4:24, 29, 33); the second bird is a going up offering (5:7, 10)."
         }
       ],
       "note": "The offering the book keeps returning to: ordinary, ordination, eighth day, Day of Coverings.",
@@ -41,6 +46,11 @@
           "unit": 3,
           "ref": "3:1",
           "note": "The verb is the frame of the chapter: the offerer brings near the animal, then from it brings near the fire offering (3:1, 3, 6, 7, 9, 12, 14)."
+        },
+        {
+          "unit": 4,
+          "ref": "4:3",
+          "note": "The verb of access now describes the offerer, and the priest, bringing a sin offering; chapter 5 often says \"bring\" instead (5:6–8)."
         }
       ],
       "note": "The book's verb of access; it names the qorban, the brought near offering.",
@@ -58,7 +68,13 @@
         "ref": "1:4",
         "note": "First use here, with the going up offering; the rendering is cover, with purge or expiate in the note."
       },
-      "payoffs": [],
+      "payoffs": [
+        {
+          "unit": 4,
+          "ref": "4:20",
+          "note": "First use for wrong done unwittingly; the formula adds \"and it shall be forgiven him\" (4:20, 26, 31, 35; 5:10, 13)."
+        }
+      ],
       "note": "The book's central act, from the first chapter to the Day of Coverings.",
       "color": "#005847"
     },
@@ -79,6 +95,11 @@
           "unit": 3,
           "ref": "3:5",
           "note": "The refrain of 1:9, now said of the fat pieces."
+        },
+        {
+          "unit": 4,
+          "ref": "4:31",
+          "note": "Said only here among the sin offerings: of the individual's goat (4:31)."
         }
       ],
       "note": "A fixed refrain with a Genesis root.",
@@ -101,6 +122,11 @@
           "unit": 3,
           "ref": "3:3",
           "note": "What reaches the altar here is only the fat pieces, not the whole animal as in chapter 1."
+        },
+        {
+          "unit": 4,
+          "ref": "4:35",
+          "note": "The fat goes up \"on Yahweh's fire offerings\" (4:35; 5:12); the sin offering itself is not called one."
         }
       ],
       "note": "The book's standard word for what reaches the altar.",
@@ -123,6 +149,11 @@
           "unit": 3,
           "ref": "3:2",
           "note": "The same act as the going up offering (1:4), now on an animal of either sex; repeated for the sheep (3:8) and the goat (3:13)."
+        },
+        {
+          "unit": 4,
+          "ref": "4:4",
+          "note": "The same act as chapters 1 and 3; here the elders lean for the community (4:15), and the birds and the flour have none (5:6–13)."
         }
       ],
       "note": "Returns at the blasphemer in the book's last narrative.",
@@ -145,6 +176,11 @@
           "unit": 3,
           "ref": "3:5",
           "note": "The priests' verb for the fat pieces (3:5, 11, 16), as for the whole going up offering in 1:9."
+        },
+        {
+          "unit": 4,
+          "ref": "4:10",
+          "note": "The same priestly verb for the fat of the sin offering (4:10, 19, 26, 31, 35) and for the handful of flour (5:12)."
         }
       ],
       "note": "A distinct altar verb across the offering and priestly narratives.",
@@ -162,7 +198,13 @@
         "ref": "2:1",
         "note": "minḥah, the book's own word for the grain gift: fine flour with oil and frankincense (2:1). Elsewhere the word is wider, any gift, as Gen 4:3."
       },
-      "payoffs": [],
+      "payoffs": [
+        {
+          "unit": 4,
+          "ref": "5:13",
+          "note": "What is left of the flour belongs to the priest \"like the gift offering\" (2:3, 10)."
+        }
+      ],
       "note": "Rendered \"gift offering\" so that the wider sense of a gift stays in view; Lev 2 says what this one is made of.",
       "color": "#8a2f3a"
     },
@@ -178,7 +220,13 @@
         "ref": "2:2",
         "note": "ʾazkarah, from zakhar \"remember\": the handful the priest turns into smoke from the gift offering (2:2, 9, 16). Why it is called this is argued."
       },
-      "payoffs": [],
+      "payoffs": [
+        {
+          "unit": 4,
+          "ref": "5:12",
+          "note": "The handful is the reminder portion here as in 2:2, 9, 16, with no oil and no frankincense."
+        }
+      ],
       "note": "A rare word tied to the handful: Lev 2:2, 9, 16; Num 5:26; Lev 6:15; 24:7.",
       "color": "#00807c"
     },
@@ -194,7 +242,13 @@
         "ref": "3:3",
         "note": "ḥeleb, the fat that covers and lies on the innards and kidneys, the part that belongs to Yahweh (3:3–4, 9–10, 14–17). The law that closes the chapter, no fat and no blood, is stated again in 7:23–25 and 17:6."
       },
-      "payoffs": [],
+      "payoffs": [
+        {
+          "unit": 4,
+          "ref": "4:8",
+          "note": "The same pieces as the well-being offering's (3:3–4), now taken from the sin offering and turned into smoke."
+        }
+      ],
       "note": "Rendered \"fat\", the plain word; the notes say it is the fat that can be peeled off, not the fat running through the meat.",
       "color": "#007da2"
     },
@@ -210,7 +264,13 @@
         "ref": "3:1",
         "note": "shelamim, the offering of the animal from herd, flock or goats whose meat the offerer eats (3:1, 3, 6, 9). Nobody knows quite where the word comes from; the English name is a choice."
       },
-      "payoffs": [],
+      "payoffs": [
+        {
+          "unit": 4,
+          "ref": "4:10",
+          "note": "Named as the measure: the fat of the sin offering is removed \"as from the ox of the well-being offering\" (4:10, 26, 31, 35)."
+        }
+      ],
       "note": "Rendered \"well-being offering\", from shalom; chapter 3 does not say who eats, 7:11–36 does.",
       "color": "#496fb2"
     }
