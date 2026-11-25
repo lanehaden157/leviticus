@@ -11,3 +11,4 @@ Read this first. Standing state, then the last three sessions, one line each. Ol
 - 2026-11-25: v2 setup (Opus planning, Sonnet sessions): 20 sources converted and indexed (Milgrom x3, Morales x2, Constable, 8 Sefaria commentators, K&D, Ellicott, Pulpit, Henry, JPS, Tyndale; no free Origen); prompts rewritten; unit 1 piloted.
 - 2026-11-25: core 0.38.2 vendored: lessons loop (`tools/lessons.py`, `lessons.jsonl`: fact-checker and builder log mistake kinds, `/finish` reports recurring ones); pilot fixes to unit-pack, checks, agents.
 - 2026-11-25: core 0.38.4 vendored; Constable moved from whole to voices (read by key verses like the Jewish commentators); `kit.py keyverses N` suggests them.
+- 2026-11-25: unit 2 (Lev 2:1-16) built, condensed tier; promoted gift-offering (minhah) and reminder-portion ('azkarah); echoes on digested verses went to notes (asides must follow a written verse); pushed.
