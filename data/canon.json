@@ -384,6 +384,94 @@
       "unit": 2,
       "note": "",
       "source": "echo"
+    },
+    {
+      "from": "Lev 3:1",
+      "to": "1 Cor 10:16–18",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 3:1",
+      "to": "Exod 24:5–11",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 3:1",
+      "to": "Lev 9:18–22",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 3:3",
+      "to": "1 Sam 2:13–17",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 3:3",
+      "to": "Exod 29:13",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 3:3",
+      "to": "Exod 29:22",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 3:3",
+      "to": "Gen 4:4",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 3:5",
+      "to": "Lev 6:12",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 3:9",
+      "to": "Exod 29:22",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 3:16",
+      "to": "Lev 17:5–6",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
+    },
+    {
+      "from": "Lev 3:17",
+      "to": "Lev 7:23–27",
+      "kind": "echo",
+      "unit": 3,
+      "note": "",
+      "source": "echo"
     }
   ],
   "typescenes": [

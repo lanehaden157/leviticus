@@ -22,6 +22,12 @@
       ],
       "note": "The book's central act, from the first chapter to the Day of Coverings."
     },
+    "fat": {
+      "ids": [
+        "2459"
+      ],
+      "note": "Rendered \"fat\", the plain word; the notes say it is the fat that can be peeled off, not the fat running through the meat."
+    },
     "fire-offering": {
       "ids": [
         "801"
@@ -57,6 +63,12 @@
         "6999"
       ],
       "note": "A distinct altar verb across the offering and priestly narratives."
+    },
+    "well-being-offering": {
+      "ids": [
+        "8002"
+      ],
+      "note": "Rendered \"well-being offering\", from shalom; chapter 3 does not say who eats, 7:11–36 does."
     }
   },
   "declined": {}

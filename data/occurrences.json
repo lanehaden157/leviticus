@@ -829,5 +829,363 @@
         ]
       }
     }
+  },
+  "unit-03": {
+    "aroma-of-rest": {
+      "count": 4,
+      "verses": [
+        5,
+        16
+      ],
+      "hits": [
+        {
+          "v": 5,
+          "pre": "…s on the wood that is on the fire: a fire offering, an ",
+          "hit": "aroma",
+          "post": " of rest to Yahweh.…"
+        },
+        {
+          "v": 5,
+          "pre": "…wood that is on the fire: a fire offering, an aroma of ",
+          "hit": "rest",
+          "post": " to Yahweh.…"
+        },
+        {
+          "v": 16,
+          "pre": "…moke on the altar: the food of a fire offering, for an ",
+          "hit": "aroma",
+          "post": " of rest. All fat is Yahweh's.…"
+        },
+        {
+          "v": 16,
+          "pre": "…he altar: the food of a fire offering, for an aroma of ",
+          "hit": "rest",
+          "post": ". All fat is Yahweh's.…"
+        }
+      ],
+      "total": 4
+    },
+    "bring-near": {
+      "count": 6,
+      "verses": [
+        1,
+        2,
+        3,
+        9
+      ],
+      "hits": [
+        {
+          "v": 1,
+          "pre": "…And if his ",
+          "hit": "brought near offering",
+          "post": " is a slaughter offering of well-being offerings: if fr…"
+        },
+        {
+          "v": 1,
+          "pre": "…fering of well-being offerings: if from the herd he is ",
+          "hit": "bringing it near",
+          "post": ", whether male or female, whole he shall bring it near…"
+        },
+        {
+          "v": 1,
+          "pre": "…inging it near, whether male or female, whole he shall ",
+          "hit": "bring it near",
+          "post": " before Yahweh.…"
+        },
+        {
+          "v": 2,
+          "pre": "…And he shall lean his hand on the head of his ",
+          "hit": "brought near offering",
+          "post": " and slaughter it at the entrance of the Tent of Meetin…"
+        },
+        {
+          "v": 3,
+          "pre": "…And he shall ",
+          "hit": "bring near",
+          "post": ", from the slaughter offering of well-being offerings,…"
+        },
+        {
+          "v": 9,
+          "pre": "…And he shall ",
+          "hit": "bring near",
+          "post": ", from the slaughter offering of well-being offerings,…"
+        }
+      ],
+      "total": 15,
+      "untr": {
+        "count": 10,
+        "verses": [
+          "3:6",
+          "3:7",
+          "3:8",
+          "3:12",
+          "3:14"
+        ]
+      }
+    },
+    "fat": {
+      "count": 8,
+      "verses": [
+        3,
+        4,
+        9,
+        16,
+        17
+      ],
+      "hits": [
+        {
+          "v": 3,
+          "pre": "…f well-being offerings, a fire offering to Yahweh: the ",
+          "hit": "fat",
+          "post": " that covers the innards, and all the fat that is on th…"
+        },
+        {
+          "v": 3,
+          "pre": "…f well-being offerings, a fire offering to Yahweh: the ",
+          "hit": "fat",
+          "post": " that covers the innards, and all the fat that is on th…"
+        },
+        {
+          "v": 4,
+          "pre": "…and the two kidneys and the ",
+          "hit": "fat",
+          "post": " that is on them, which is on the sinews, and the lobe…"
+        },
+        {
+          "v": 9,
+          "pre": "…f well-being offerings, a fire offering to Yahweh: its ",
+          "hit": "fat",
+          "post": ", the fat tail, whole, he shall remove close to the bac…"
+        },
+        {
+          "v": 9,
+          "pre": "…f well-being offerings, a fire offering to Yahweh: its ",
+          "hit": "fat",
+          "post": ", the fat tail, whole, he shall remove close to the bac…"
+        },
+        {
+          "v": 9,
+          "pre": "…f well-being offerings, a fire offering to Yahweh: its ",
+          "hit": "fat",
+          "post": ", the fat tail, whole, he shall remove close to the bac…"
+        },
+        {
+          "v": 16,
+          "pre": "…the food of a fire offering, for an aroma of rest. All ",
+          "hit": "fat",
+          "post": " is Yahweh's.…"
+        },
+        {
+          "v": 17,
+          "pre": "…generations, in all your dwellings: y'all shall eat no ",
+          "hit": "fat",
+          "post": " and no blood.…"
+        }
+      ],
+      "total": 12,
+      "untr": {
+        "count": 4,
+        "verses": [
+          "3:10",
+          "3:14",
+          "3:15"
+        ]
+      }
+    },
+    "fat-tail": {
+      "count": 1,
+      "verses": [
+        9
+      ],
+      "hits": [
+        {
+          "v": 9,
+          "pre": "…ing offerings, a fire offering to Yahweh: its fat, the ",
+          "hit": "fat tail",
+          "post": ", whole, he shall remove close to the backbone; and the…"
+        }
+      ],
+      "total": 1
+    },
+    "fire-offering": {
+      "count": 5,
+      "verses": [
+        3,
+        5,
+        9,
+        11,
+        16
+      ],
+      "hits": [
+        {
+          "v": 3,
+          "pre": "…from the slaughter offering of well-being offerings, a ",
+          "hit": "fire offering",
+          "post": " to Yahweh: the fat that covers the innards, and all th…"
+        },
+        {
+          "v": 5,
+          "pre": "…up offering that is on the wood that is on the fire: a ",
+          "hit": "fire offering",
+          "post": ", an aroma of rest to Yahweh.…"
+        },
+        {
+          "v": 9,
+          "pre": "…from the slaughter offering of well-being offerings, a ",
+          "hit": "fire offering",
+          "post": " to Yahweh: its fat, the fat tail, whole, he shall remo…"
+        },
+        {
+          "v": 11,
+          "pre": "…t shall turn it into smoke on the altar: the food of a ",
+          "hit": "fire offering",
+          "post": " to Yahweh.…"
+        },
+        {
+          "v": 16,
+          "pre": "…shall turn them into smoke on the altar: the food of a ",
+          "hit": "fire offering",
+          "post": ", for an aroma of rest. All fat is Yahweh's.…"
+        }
+      ],
+      "total": 6,
+      "untr": {
+        "count": 1,
+        "verses": [
+          "3:14"
+        ]
+      }
+    },
+    "going-up-offering": {
+      "count": 1,
+      "verses": [
+        5
+      ],
+      "hits": [
+        {
+          "v": 5,
+          "pre": "…n's sons shall turn it into smoke on the altar, on the ",
+          "hit": "going up offering",
+          "post": " that is on the wood that is on the fire: a fire offeri…"
+        }
+      ],
+      "total": 1
+    },
+    "lean-the-hand": {
+      "count": 1,
+      "verses": [
+        2
+      ],
+      "hits": [
+        {
+          "v": 2,
+          "pre": "…And he shall ",
+          "hit": "lean",
+          "post": " his hand on the head of his brought near offering and…"
+        }
+      ],
+      "total": 3,
+      "untr": {
+        "count": 2,
+        "verses": [
+          "3:8",
+          "3:13"
+        ]
+      }
+    },
+    "lobe": {
+      "count": 1,
+      "verses": [
+        4
+      ],
+      "hits": [
+        {
+          "v": 4,
+          "pre": "…e fat that is on them, which is on the sinews, and the ",
+          "hit": "lobe",
+          "post": " on the liver, with the kidneys he shall remove it.…"
+        }
+      ],
+      "total": 3
+    },
+    "sinews": {
+      "count": 1,
+      "verses": [
+        4
+      ],
+      "hits": [
+        {
+          "v": 4,
+          "pre": "…o kidneys and the fat that is on them, which is on the ",
+          "hit": "sinews",
+          "post": ", and the lobe on the liver, with the kidneys he shall…"
+        }
+      ],
+      "total": 3
+    },
+    "turn-into-smoke": {
+      "count": 3,
+      "verses": [
+        5,
+        11,
+        16
+      ],
+      "hits": [
+        {
+          "v": 5,
+          "pre": "…And Aharon's sons shall ",
+          "hit": "turn it into smoke",
+          "post": " on the altar, on the going up offering that is on the…"
+        },
+        {
+          "v": 11,
+          "pre": "…And the priest shall ",
+          "hit": "turn it into smoke",
+          "post": " on the altar: the food of a fire offering to Yahweh.…"
+        },
+        {
+          "v": 16,
+          "pre": "…And the priest shall ",
+          "hit": "turn them into smoke",
+          "post": " on the altar: the food of a fire offering, for an arom…"
+        }
+      ],
+      "total": 3
+    },
+    "well-being-offering": {
+      "count": 3,
+      "verses": [
+        1,
+        3,
+        9
+      ],
+      "hits": [
+        {
+          "v": 1,
+          "pre": "…f his brought near offering is a slaughter offering of ",
+          "hit": "well-being offerings",
+          "post": ": if from the herd he is bringing it near, whether male…"
+        },
+        {
+          "v": 3,
+          "pre": "…nd he shall bring near, from the slaughter offering of ",
+          "hit": "well-being offerings",
+          "post": ", a fire offering to Yahweh: the fat that covers the in…"
+        },
+        {
+          "v": 9,
+          "pre": "…nd he shall bring near, from the slaughter offering of ",
+          "hit": "well-being offerings",
+          "post": ", a fire offering to Yahweh: its fat, the fat tail, who…"
+        }
+      ],
+      "total": 4,
+      "untr": {
+        "count": 1,
+        "verses": [
+          "3:6"
+        ]
+      }
+    }
   }
 }

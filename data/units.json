@@ -259,12 +259,33 @@
       "n": 3,
       "slug": "unit-03",
       "passage": "Leviticus 3:1–17",
-      "title": "The peace offering",
+      "title": "The well-being offering",
       "section": 1,
       "part": 1,
       "tier": "condensed",
-      "built": false,
-      "digest": "The peace offering comes from the herd or the flock, male or female. As with the going up offering, the offerer lays a hand on it and the blood goes on the altar, but only the fat around the inner organs is burned. The chapter ends with a lasting rule: Israel eats no fat and no blood."
+      "built": true,
+      "digest": "A person may bring Yahweh a well-being offering from the herd, the flock or the goats, male or female and whole. The offerer leans a hand on it and slaughters it at the tent; the priests dash the blood on the altar and turn the fat pieces into smoke, a fire offering, an aroma of rest. All fat is Yahweh's, and y'all shall eat no fat and no blood, in any dwelling, for all time.",
+      "roots": {
+        "fat-tail": {
+          "color": "#b1481f",
+          "translit": "ʾalyah",
+          "gloss": "the fat tail of the sheep",
+          "example": "the fat tail, whole"
+        },
+        "sinews": {
+          "color": "#8c6d1f",
+          "translit": "kesel",
+          "gloss": "the sinews along the loins, where the kidney fat sits",
+          "example": "which is on the sinews"
+        },
+        "lobe": {
+          "color": "#55642f",
+          "translit": "yoteret",
+          "gloss": "the lobe on the liver; literally an extra, a remainder",
+          "example": "the lobe on the liver"
+        }
+      },
+      "contract": "0.38.4"
     },
     {
       "n": 4,
